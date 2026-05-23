@@ -1,0 +1,77 @@
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.vbprojResolveAssemblyReference.cache
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Interop.SpeechLib.dll
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.vbproj.ResolveComReference.cache
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.AboutmyPOS.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.FCustomer.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.MyMessageBox.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmSpecialRepay.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmAsset.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmAssetType.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmBank.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmChangeCustomer.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmChangeLocation.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmChangePassword.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmChangeStaff.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmCompany.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.FrmCustomer.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmCustomerHistory.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmDelegate.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmDisburshment.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmExchange.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmExpense.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmExport.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmHoliday.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmImport.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmIT.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmLocation.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmMaintenance.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmMessageError.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmOtherDeposit.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmOtherDepositPayOff.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmOtherIncome.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmOwner.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmPosition.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmPrivileges.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmRepayment.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmReport.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmSetup.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmsignin.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.FrmStaff.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmStationary.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmStationaryIn.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmStationaryOut.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmSType.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmUpdatePrice.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmUsers.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmWiteOff.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frm_Backup.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.Frm_Connection.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frm_Restore.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.GetSheetNames.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmEmployee.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmFirst.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmResultReport.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmMain.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.frmlogin.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.myPOSSplash.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.Resources.resources
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Panha.vbproj.GenerateResource.Cache
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Loan Management.exe
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Loan Management.xml
+G:\Project\ProJectOld\Panha\Panha\KTV\obj\Debug\Loan Management.pdb
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Admin\frmPosition.resx
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Admin\frmSetup.resx
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Admin\frmPosition.vb
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Admin\frmSetup.vb
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Loan Management.exe.config
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Loan Management.exe
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Loan Management.pdb
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Loan Management.xml
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Kernel.pdb
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+G:\Project\ProJectOld\Panha\Panha\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
