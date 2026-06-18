@@ -342,48 +342,30 @@ Public Class frmDisburshment
                 Else
                     '---------------------------------------------------------------- SH_Service
                     Dim SH_Service As Double
-                    If Me.DataGridView1.Rows(iRow).Cells("coLD_Service").Value.ToString.Trim = "មាន" Or Me.DataGridView1.Rows(iRow).Cells("coLD_Service").Value.ToString.Trim = "មិនមាន" Then
-                        'If DataGridView1.Rows(iRow).Cells("coLD_DisAmt").Value <= 1000000 Then
-                        If Me.DataGridView1.Rows(iRow).Cells("coLD_Service").Value.ToString.Trim = "មាន" Then
-                            If Me.DataGridView1.Rows(iRow).Cells("coCurrency").Value.ToString = "រៀល" Then
-                                If Me.DataGridView1.Rows(iRow).Cells("coUnit").Value.ToString = "ថ្ងៃ" Then
-                                    SH_Service = 500
-                                ElseIf Me.DataGridView1.Rows(iRow).Cells("coUnit").Value.ToString = "សប្តាហ៍" Then
-                                    SH_Service = 1000
-                                ElseIf Me.DataGridView1.Rows(iRow).Cells("coUnit").Value.ToString = "២សប្តាហ៍" Or Me.DataGridView1.Rows(iRow).Cells("coUnit").Value.ToString = "២សប្តាហ៍ធ្វើការ" Then
-                                    SH_Service = 2000
-                                Else
-                                    SH_Service = 4000
-                                End If
+                    Dim row As DataGridViewRow = Me.DataGridView1.Rows(iRow)
+                    Dim serviceVal As String = row.Cells("coLD_Service").Value.ToString.Trim
+                    Dim DisAmt As Double = DataGridView1.Rows(iRow).Cells("coLD_DisAmt").Value
+
+
+                    If serviceVal = "មាន" OrElse serviceVal = "មិនមាន" Then
+                        If serviceVal = "មាន" Then
+                            If row.Cells("coCurrency").Value.ToString = "រៀល" Then
+                                Select Case row.Cells("coUnit").Value.ToString
+                                    Case "ថ្ងៃ" : SH_Service = 500
+                                    Case "សប្តាហ៍" : SH_Service = 1000
+                                    Case "២សប្តាហ៍", "២សប្តាហ៍ធ្វើការ" : SH_Service = 2000
+                                    Case Else : SH_Service = 4000
+                                End Select
                             Else
                                 SH_Service = 1
                             End If
                         Else
                             SH_Service = 0
                         End If
-                        'Else
-                        '    If Me.DataGridView1.Rows(iRow).Cells("coLD_Service").Value.ToString.Trim = "មាន" Then
-                        '        If Me.DataGridView1.Rows(iRow).Cells("coCurrency").Value.ToString = "រៀល" Then
-                        '            If Me.DataGridView1.Rows(iRow).Cells("coUnit").Value.ToString = "ថ្ងៃ" Then
-                        '                SH_Service = (DataGridView1.Rows(iRow).Cells("coLD_DisAmt").Value * 0.1) / 100
-                        '            ElseIf Me.DataGridView1.Rows(iRow).Cells("coUnit").Value.ToString = "សប្តាហ៍" Then
-                        '                SH_Service = (DataGridView1.Rows(iRow).Cells("coLD_DisAmt").Value * 0.2) / 100
-                        '            ElseIf Me.DataGridView1.Rows(iRow).Cells("coUnit").Value.ToString = "២សប្តាហ៍" Or Me.DataGridView1.Rows(iRow).Cells("coUnit").Value.ToString = "២សប្តាហ៍ធ្វើការ" Then
-                        '                SH_Service = (DataGridView1.Rows(iRow).Cells("coLD_DisAmt").Value * 0.3) / 100
-                        '            Else
-                        '                SH_Service = 4000
-                        '            End If
-                        '        Else
-                        '            SH_Service = 1
-                        '        End If
-                        '    Else
-                        '        SH_Service = 0
-                        '    End If
-                        'End If
                     Else
                         Try
-                            If Val(Me.DataGridView1.Rows(iRow).Cells("coLD_Service").Value.ToString.Trim) / 1 = Me.DataGridView1.Rows(iRow).Cells("coLD_Service").Value.ToString.Trim Then
-                                SH_Service = Val(Me.DataGridView1.Rows(iRow).Cells("coLD_Service").Value)
+                            If Val(serviceVal) / 1 = serviceVal Then
+                                SH_Service = Val(row.Cells("coLD_Service").Value)
                             End If
                         Catch ex As Exception
                             MessageBox.Show(ex.ToString, "Not allowed character", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -392,7 +374,7 @@ Public Class frmDisburshment
 
                     End If
                     Dim int As Double = DataGridView1.Rows(iRow).Cells("coIntRate").Value
-                    Dim dis_amt As Integer = DataGridView1.Rows(iRow).Cells("coLD_DisAmt").Value
+                    Dim dis_amt As Double = DataGridView1.Rows(iRow).Cells("coLD_DisAmt").Value
                     Dim first_Date As Date = DataGridView1.Rows(iRow).Cells("coDisDatePay").Value
                     Dim term As Integer = DataGridView1.Rows(iRow).Cells("coTerm").Value
                     Dim Cycle As Integer = Val(getData("select top 1 LD_Cycle from BK_Customer where CM_ID='" & Me.DataGridView1.Rows(iRow).Cells("coCM_ID").Value & "' and Status='Active' and CM_BrId='" & frmMain.lblCode.Text & "'"))
