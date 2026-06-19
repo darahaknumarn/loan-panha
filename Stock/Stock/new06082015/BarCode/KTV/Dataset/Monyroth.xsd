@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Monyroth" targetNamespace="http://tempuri.org/Monyroth.xsd" xmlns:mstns="http://tempuri.org/Monyroth.xsd" xmlns="http://tempuri.org/Monyroth.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="BarCodeConnectionString3" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BarCodeConnectionString3 (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CamITSo.My.MySettings.GlobalReference.Default.BarCodeConnectionString3" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vResourceTableAdapter" GeneratorDataComponentClassName="vResourceTableAdapter" Name="vResource" UserDataComponentName="vResourceTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BarCodeConnectionString3 (MySettings)" DbObjectName="BarCode.dbo.vResource" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id, staffid, StaffName, collateralid, CollateralName, customid, CustomName, CustomAdd, borrowdate, returndate, checking, AmountDay FROM dbo.vResource</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id" DataSetColumn="id" />
+              <Mapping SourceColumn="staffid" DataSetColumn="staffid" />
+              <Mapping SourceColumn="StaffName" DataSetColumn="StaffName" />
+              <Mapping SourceColumn="collateralid" DataSetColumn="collateralid" />
+              <Mapping SourceColumn="CollateralName" DataSetColumn="CollateralName" />
+              <Mapping SourceColumn="customid" DataSetColumn="customid" />
+              <Mapping SourceColumn="CustomName" DataSetColumn="CustomName" />
+              <Mapping SourceColumn="CustomAdd" DataSetColumn="CustomAdd" />
+              <Mapping SourceColumn="borrowdate" DataSetColumn="borrowdate" />
+              <Mapping SourceColumn="returndate" DataSetColumn="returndate" />
+              <Mapping SourceColumn="checking" DataSetColumn="checking" />
+              <Mapping SourceColumn="AmountDay" DataSetColumn="AmountDay" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Monyroth" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Monyroth" msprop:Generator_UserDSName="Monyroth">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vResource" msprop:Generator_TableClassName="vResourceDataTable" msprop:Generator_TableVarName="tablevResource" msprop:Generator_TablePropName="vResource" msprop:Generator_RowDeletingName="vResourceRowDeleting" msprop:Generator_UserTableName="vResource" msprop:Generator_RowChangingName="vResourceRowChanging" msprop:Generator_RowEvHandlerName="vResourceRowChangeEventHandler" msprop:Generator_RowDeletedName="vResourceRowDeleted" msprop:Generator_RowEvArgName="vResourceRowChangeEvent" msprop:Generator_RowChangedName="vResourceRowChanged" msprop:Generator_RowClassName="vResourceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="staffid" msprop:Generator_ColumnVarNameInTable="columnstaffid" msprop:Generator_ColumnPropNameInRow="staffid" msprop:Generator_ColumnPropNameInTable="staffidColumn" msprop:Generator_UserColumnName="staffid" type="xs:int" minOccurs="0" />
+              <xs:element name="StaffName" msprop:Generator_ColumnVarNameInTable="columnStaffName" msprop:Generator_ColumnPropNameInRow="StaffName" msprop:Generator_ColumnPropNameInTable="StaffNameColumn" msprop:Generator_UserColumnName="StaffName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="collateralid" msprop:Generator_ColumnVarNameInTable="columncollateralid" msprop:Generator_ColumnPropNameInRow="collateralid" msprop:Generator_ColumnPropNameInTable="collateralidColumn" msprop:Generator_UserColumnName="collateralid" type="xs:int" minOccurs="0" />
+              <xs:element name="CollateralName" msprop:Generator_ColumnVarNameInTable="columnCollateralName" msprop:Generator_ColumnPropNameInRow="CollateralName" msprop:Generator_ColumnPropNameInTable="CollateralNameColumn" msprop:Generator_UserColumnName="CollateralName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="customid" msprop:Generator_ColumnVarNameInTable="columncustomid" msprop:Generator_ColumnPropNameInRow="customid" msprop:Generator_ColumnPropNameInTable="customidColumn" msprop:Generator_UserColumnName="customid" type="xs:int" minOccurs="0" />
+              <xs:element name="CustomName" msprop:Generator_ColumnVarNameInTable="columnCustomName" msprop:Generator_ColumnPropNameInRow="CustomName" msprop:Generator_ColumnPropNameInTable="CustomNameColumn" msprop:Generator_UserColumnName="CustomName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CustomAdd" msprop:Generator_ColumnVarNameInTable="columnCustomAdd" msprop:Generator_ColumnPropNameInRow="CustomAdd" msprop:Generator_ColumnPropNameInTable="CustomAddColumn" msprop:Generator_UserColumnName="CustomAdd" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="borrowdate" msprop:Generator_ColumnVarNameInTable="columnborrowdate" msprop:Generator_ColumnPropNameInRow="borrowdate" msprop:Generator_ColumnPropNameInTable="borrowdateColumn" msprop:Generator_UserColumnName="borrowdate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="returndate" msprop:Generator_ColumnVarNameInTable="columnreturndate" msprop:Generator_ColumnPropNameInRow="returndate" msprop:Generator_ColumnPropNameInTable="returndateColumn" msprop:Generator_UserColumnName="returndate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="checking" msprop:Generator_ColumnVarNameInTable="columnchecking" msprop:Generator_ColumnPropNameInRow="checking" msprop:Generator_ColumnPropNameInTable="checkingColumn" msprop:Generator_UserColumnName="checking" type="xs:int" minOccurs="0" />
+              <xs:element name="AmountDay" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnAmountDay" msprop:Generator_ColumnPropNameInRow="AmountDay" msprop:Generator_ColumnPropNameInTable="AmountDayColumn" msprop:Generator_UserColumnName="AmountDay" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:vResource" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

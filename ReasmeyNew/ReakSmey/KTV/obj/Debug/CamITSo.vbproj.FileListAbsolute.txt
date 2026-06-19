@@ -1,0 +1,1417 @@
+D:\Development\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Development\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Development\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Development\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Development\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Development\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Development\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Development\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Development\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Development\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\BarCode\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\MyDoc\BarCode\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\MyDoc\BarCode061211\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\BarCode061211\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\BarCode061211\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\BarCode061211\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\BarCode061211\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+D:\BarCode061211\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\BarCode061211\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+D:\BarCode061211\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\BarCode061211\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\BarCode061211\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\BarCode061211\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\BarCode061211\BarCode\KTV\bin\Debug\CamITSo.xml
+H:\BarCode061211(2pm)\BarCode\KTV\bin\Debug\CamITSo.exe.config
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.exe
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.xml
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.pdb
+H:\BarCode061211(2pm)\BarCode\KTV\bin\Debug\CamITSo.exe
+H:\BarCode061211(2pm)\BarCode\KTV\bin\Debug\CamITSo.pdb
+H:\BarCode061211(2pm)\BarCode\KTV\bin\Debug\CamITSo.xml
+H:\BarCode061211(2pm)\BarCode\KTV\bin\Debug\Encrypted.dll
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\RdlCompile.cache
+H:\BarCode061211(2pm)\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\BarCode07122011\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\test\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\test\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\test\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\test\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\test\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\13-12-2011\BarCode\KTV\obj\Debug\RdlCompile.compiled
+G:\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe.config
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.exe
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.xml
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.pdb
+G:\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe
+G:\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.pdb
+G:\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.xml
+G:\13-12-2011\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+G:\13-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\13-12-2011\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+G:\13-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\13-12-2011\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+G:\13-12-2011\BarCode\KTV\obj\Debug\RdlCompile.cache
+G:\13-12-2011\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\Project\13-12-2011\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\15-12-2011\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\22-12-2011\BarCode\KTV\obj\Debug\RdlCompile.compiled
+H:\2-1-2011\BarCode\KTV\bin\Debug\CamITSo.exe.config
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.exe
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.xml
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.pdb
+H:\2-1-2011\BarCode\KTV\bin\Debug\CamITSo.exe
+H:\2-1-2011\BarCode\KTV\bin\Debug\CamITSo.pdb
+H:\2-1-2011\BarCode\KTV\bin\Debug\CamITSo.xml
+H:\2-1-2011\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+H:\2-1-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\2-1-2011\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+H:\2-1-2011\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\2-1-2011\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+H:\2-1-2011\BarCode\KTV\obj\Debug\RdlCompile.cache
+H:\2-1-2011\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\2-1-2011fma\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\9-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\9-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\9-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\9-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\9-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\9-1-2011fma - Copy\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\10-1-2011fma\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard2.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\MyDoc\10-1-2011fma\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\MFA24032012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+H:\MFA24032012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.exe
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.xml
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.pdb
+H:\MFA24032012\BarCode\KTV\bin\Debug\CamITSo.exe
+H:\MFA24032012\BarCode\KTV\bin\Debug\CamITSo.pdb
+H:\MFA24032012\BarCode\KTV\bin\Debug\CamITSo.xml
+H:\MFA24032012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+H:\MFA24032012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\MFA24032012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+H:\MFA24032012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\MFA24032012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+H:\MFA24032012\BarCode\KTV\obj\Debug\RdlCompile.cache
+H:\MFA24032012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+G:\MFA10052012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.exe
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.xml
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.pdb
+G:\MFA10052012\BarCode\KTV\bin\Debug\CamITSo.exe
+G:\MFA10052012\BarCode\KTV\bin\Debug\CamITSo.pdb
+G:\MFA10052012\BarCode\KTV\bin\Debug\CamITSo.xml
+G:\MFA10052012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+G:\MFA10052012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\MFA10052012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+G:\MFA10052012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\MFA10052012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+G:\MFA10052012\BarCode\KTV\obj\Debug\RdlCompile.cache
+G:\MFA10052012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\Project\MFA10052012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard4.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\Project\MFA120652012\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\MonyRoth\Desktop\Blue\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\MonyRoth\Desktop\Blue - Copy\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Blue - Copy\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Blue - Copy\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Blue - Copy\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Blue - Copy\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Blue - Copy\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Blue - Copy\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Blue - Copy\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Blue - Copy\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Blue - Copy\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+D:\Blue - Copy\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Blue - Copy\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+D:\Blue - Copy\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Blue - Copy\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\MonyRoth\Desktop\MyProject\Blue -06072012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+H:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+H:\Blue -07072012\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.exe
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.xml
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.pdb
+H:\Blue -07072012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+H:\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+H:\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+H:\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.cache
+H:\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Blue -07072012\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Blue -07072012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+D:\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+D:\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Blue -07072012\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+H:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe
+H:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.pdb
+H:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.xml
+H:\Blue -07072012\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+H:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+F:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+F:\Blue -07072012\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.exe
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.xml
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.pdb
+F:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe
+F:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.pdb
+F:\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.xml
+F:\Blue -07072012\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+F:\Blue -07072012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+F:\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+F:\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+F:\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.cache
+F:\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\User\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\MonyRoth\Desktop\Blue -07072012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmReports.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\MonyRoth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Monyroth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Monyroth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Monyroth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.FrmRptCollateral.resources
+C:\Users\Monyroth\Desktop\Blue -12072012\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.vbproj.ResolveComReference.cache
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmFixAsset.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
