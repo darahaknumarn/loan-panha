@@ -1,0 +1,732 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OneERP
+</name>
+</assembly>
+<members>
+<member name="T:OneWindow.TruckTransaction.tblTransactionDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vEmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vTruckTransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vTruckExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vLoanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.tblTransactionDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vEmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vTruckTransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vTruckExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vLoanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.tblTransactionDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vEmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vTruckTransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vTruckExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vLoanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.TruckTransaction.vPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.TruckTransaction">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.tblTransactionDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.vEmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.vTruckTransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.vTruckExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.vLoanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.vPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OneWindow.TruckTransactionTableAdapters.TableAdapterManager.UpdateUpdatedRows(OneWindow.TruckTransaction,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.TruckTransactionTableAdapters.TableAdapterManager.UpdateInsertedRows(OneWindow.TruckTransaction,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.TruckTransactionTableAdapters.TableAdapterManager.UpdateDeletedRows(OneWindow.TruckTransaction,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OneWindow.TruckTransactionTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OneWindow.TruckTransactionTableAdapters.TableAdapterManager.UpdateAll(OneWindow.TruckTransaction)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OneWindow.TruckTransactionTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:OneWindow.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OneWindow.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OneWindow.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:OneWindow.Stock.vListPriceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Stock.tblWarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Stock.vListPriceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Stock.tblWarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Stock.vListPriceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Stock.tblWarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Stock">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OneWindow.StockTableAdapters.vListPriceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.StockTableAdapters.tblWarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OneWindow.StockTableAdapters.TableAdapterManager.UpdateUpdatedRows(OneWindow.Stock,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.StockTableAdapters.TableAdapterManager.UpdateInsertedRows(OneWindow.Stock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.StockTableAdapters.TableAdapterManager.UpdateDeletedRows(OneWindow.Stock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OneWindow.StockTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OneWindow.StockTableAdapters.TableAdapterManager.UpdateAll(OneWindow.Stock)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OneWindow.StockTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OneWindow.StockTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OneWindow.StockTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:OneWindow.productInstock.vProductByWareHouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.productInstock.vInstallmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.productInstock.TruckExpenseIncomeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.productInstock.vTruckIncomeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.productInstock.vTruckExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.productInstock.tblTransactionDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.productInstock.vProductByWareHouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.productInstock.vInstallmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.productInstock.TruckExpenseIncomeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.productInstock.vTruckIncomeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.productInstock.vTruckExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.productInstock.tblTransactionDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.productInstock.vProductByWareHouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.productInstock.vInstallmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.productInstock.TruckExpenseIncomeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.productInstock.vTruckIncomeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.productInstock.vTruckExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.productInstock.tblTransactionDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.productInstock">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.vProductByWareHouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.vInstallmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.TruckExpenseIncomeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.vTruckIncomeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.vTruckExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.tblTransactionDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OneWindow.productInstockTableAdapters.TableAdapterManager.UpdateUpdatedRows(OneWindow.productInstock,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.productInstockTableAdapters.TableAdapterManager.UpdateInsertedRows(OneWindow.productInstock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.productInstockTableAdapters.TableAdapterManager.UpdateDeletedRows(OneWindow.productInstock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OneWindow.productInstockTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OneWindow.productInstockTableAdapters.TableAdapterManager.UpdateAll(OneWindow.productInstock)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OneWindow.productInstockTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:OneWindow.Sales.vSalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.vPODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.vExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.vIncomeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblUOMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblEmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.vProductByWareHouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.vQuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.vInvoiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblSupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblTaxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblRoleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblTruckTransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.Sales.vSalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.vPORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.vExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.vIncomeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblUOMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblEmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.vProductByWareHouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.vQuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.vInvoiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblSupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblTaxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblRoleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.tblTruckTransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.Sales.vSalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.vPORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.vExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.vIncomeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblUOMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblEmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.vProductByWareHouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.vQuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.vInvoiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblSupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblTaxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblRoleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales.tblTruckTransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.Sales">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.vSalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.vPOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.vExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.vIncomeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblUOMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblEmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.vProductByWareHouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.vQuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.vInvoiceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblUserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblSupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblTaxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblRoleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.tblTruckTransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OneWindow.SalesTableAdapters.TableAdapterManager.UpdateUpdatedRows(OneWindow.Sales,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.SalesTableAdapters.TableAdapterManager.UpdateInsertedRows(OneWindow.Sales,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.SalesTableAdapters.TableAdapterManager.UpdateDeletedRows(OneWindow.Sales,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OneWindow.SalesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OneWindow.SalesTableAdapters.TableAdapterManager.UpdateAll(OneWindow.Sales)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OneWindow.SalesTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:OneWindow.EmpSalary.tblEmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OneWindow.EmpSalary.tblEmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OneWindow.EmpSalary.tblEmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OneWindow.EmpSalary">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OneWindow.EmpSalaryTableAdapters.tblEmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OneWindow.EmpSalaryTableAdapters.TableAdapterManager.UpdateUpdatedRows(OneWindow.EmpSalary,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.EmpSalaryTableAdapters.TableAdapterManager.UpdateInsertedRows(OneWindow.EmpSalary,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OneWindow.EmpSalaryTableAdapters.TableAdapterManager.UpdateDeletedRows(OneWindow.EmpSalary,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OneWindow.EmpSalaryTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OneWindow.EmpSalaryTableAdapters.TableAdapterManager.UpdateAll(OneWindow.EmpSalary)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OneWindow.EmpSalaryTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OneWindow.EmpSalaryTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OneWindow.EmpSalaryTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

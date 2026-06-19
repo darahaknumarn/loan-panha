@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="vTruckIncome">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TrackID" type="xs:int" minOccurs="0" />
+                <xs:element name="Tables" type="xs:string" minOccurs="0" />
+                <xs:element name="FullName" type="xs:string" minOccurs="0" />
+                <xs:element name="TranDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="PName" type="xs:string" minOccurs="0" />
+                <xs:element name="UM" type="xs:string" minOccurs="0" />
+                <xs:element name="QTY" type="xs:int" minOccurs="0" />
+                <xs:element name="Costing" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Selling" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Supplier" type="xs:string" minOccurs="0" />
+                <xs:element name="CusName" type="xs:string" minOccurs="0" />
+                <xs:element name="Source" type="xs:string" minOccurs="0" />
+                <xs:element name="Destination" type="xs:string" minOccurs="0" />
+                <xs:element name="Driver" type="xs:int" minOccurs="0" />
+                <xs:element name="TruckID" type="xs:int" minOccurs="0" />
+                <xs:element name="ProID" type="xs:int" minOccurs="0" />
+                <xs:element name="UOM" type="xs:int" minOccurs="0" />
+                <xs:element name="SupplierID" type="xs:int" minOccurs="0" />
+                <xs:element name="CusID" type="xs:string" minOccurs="0" />
+                <xs:element name="Currency" type="xs:string" minOccurs="0" />
+                <xs:element name="XRate" type="xs:double" minOccurs="0" />
+                <xs:element name="RecStaff" type="xs:int" minOccurs="0" />
+                <xs:element name="Employee" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <vTruckIncome>
+    <TrackID>5</TrackID>
+    <Tables>650</Tables>
+    <FullName>Jacop</FullName>
+    <TranDate>2011-07-29T00:00:00+07:00</TranDate>
+    <PName>ថ្ម 1x2</PName>
+    <UM>set</UM>
+    <QTY>4</QTY>
+    <Costing>4.0000</Costing>
+    <Selling>5.0000</Selling>
+    <Supplier>ABC Computer</Supplier>
+    <CusName>Kata</CusName>
+    <Source>phnom penh thmey</Source>
+    <Destination>takmao</Destination>
+    <Driver>4</Driver>
+    <TruckID>64</TruckID>
+    <ProID>33</ProID>
+    <UOM>7</UOM>
+    <SupplierID>1</SupplierID>
+    <CusID>c002</CusID>
+    <Currency>Dollars (USD)</Currency>
+    <XRate>1</XRate>
+    <RecStaff>12</RecStaff>
+    <Employee>ងួន នីតា</Employee>
+  </vTruckIncome>
+</NewDataSet>

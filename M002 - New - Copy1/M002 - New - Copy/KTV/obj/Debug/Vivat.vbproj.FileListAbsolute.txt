@@ -1,0 +1,2344 @@
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmFixAsset.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmBrand.resources
+C:\Users\Monyroth\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Project\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Project\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Project\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Project\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Project\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Project\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Project\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Project\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+H:\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+H:\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+H:\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+H:\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+H:\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+H:\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+H:\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+H:\Vivat\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmBrand.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmclass.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmFixAsset.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+H:\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+H:\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+H:\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\IT\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\IT\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\IT\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\IT\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\IT\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\IT\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\IT\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\IT\Vivat\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmBrand.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmclass.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmFixAsset.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\IT\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\IT\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\IT\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\IT\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\server\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\server\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\server\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\server\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\server\Desktop\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmBrand.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmclass.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmFixAsset.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\server\Desktop\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmBrand.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmclass.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmFixAsset.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\Administrator\Desktop\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Monyroth\Plus\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Monyroth\Plus\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Monyroth\Plus\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Monyroth\Plus\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmBrand.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmclass.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmFixAsset.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Monyroth\Plus\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Project\Vivat\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Project\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+G:\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe.config
+G:\Vivat\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+G:\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.exe
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.xml
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.pdb
+G:\Vivat\BarCode\KTV\bin\Debug\CamITSo.exe
+G:\Vivat\BarCode\KTV\bin\Debug\CamITSo.pdb
+G:\Vivat\BarCode\KTV\bin\Debug\CamITSo.xml
+G:\Vivat\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+G:\Vivat\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+G:\Vivat\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+G:\Vivat\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+G:\Vivat\BarCode\KTV\obj\Debug\RdlCompile.cache
+G:\Vivat\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Project\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Project\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Project\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Project\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Project\Vivat02072013\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Project\Vivat02072013\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\IT\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\IT\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\IT\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\IT\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\IT\Vivat02072013\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\ResGen.read.1.tlog
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\ResGen.write.1.tlog
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\IT\Vivat02072013\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Roth\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Desktop\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Desktop\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.pdb
+E:\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe.config
+E:\Vivat02072013\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+E:\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.exe
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.xml
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.pdb
+E:\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.exe
+E:\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.pdb
+E:\Vivat02072013\BarCode\KTV\bin\Debug\CamITSo.xml
+E:\Vivat02072013\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+E:\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+E:\Vivat02072013\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+E:\Vivat02072013\BarCode\KTV\obj\Debug\RdlCompile.cache
+E:\Vivat02072013\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Sary Monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\monyroth\Desktop\Vivat16072014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Vivat16072014\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\monyroth\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\des\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\des\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\des\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\des\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\des\Vivat23072014\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\des\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\IT\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\IT\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\IT\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\IT\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\IT\Vivat23072014\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\IT\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.compiled
+E:\ \Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.exe
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.xml
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.pdb
+E:\ \Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe
+E:\ \Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.pdb
+E:\ \Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.xml
+E:\ \Vivat23072014\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.cache
+E:\ \Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.compiled
+E:\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+E:\Vivat23072014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+E:\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.exe
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.xml
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.pdb
+E:\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe
+E:\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.pdb
+E:\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.xml
+E:\Vivat23072014\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+E:\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+E:\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+E:\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.cache
+E:\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Monyroth Sary\Desktop\Vivat23072014\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth Sary\Desktop\Vivat01122014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Monyroth Sary\Desktop\Vivat01122014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Vivat01122014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Monyroth Sary\Desktop\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Monyroth Sary\Desktop\Stock\Vivat01122014\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.Form1.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmTest.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.Form1.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmTest.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmCustomers.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new22072015\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe.config
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.pdb
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.xml
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmTest.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\RdlCompile.cache
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\RdlCompile.compiled
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+C:\Users\Monyroth Sary\Desktop\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\new06082015\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\new06082015\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\new06082015\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\new06082015\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\new06082015\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDashboard3.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDashboard5.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmLucky.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmTest.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\new06082015\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\new06082015\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\new06082015\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmTest.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Stock for server\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Stock for server\new06082015\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Stock for server\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\New\Stock for server\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\New\Stock for server\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\New\Stock for server\new06082015\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\New\Stock for server\new06082015\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\New\Stock for server\new06082015\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmTest.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\New\Stock for server\new06082015\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\New\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\New\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\New\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\New\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\New\Stock\new06082015\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmTest.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\New\Stock\new06082015\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmCountry.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmMeeting.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmrole.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan11052017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\Loan13052017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmOwner.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmExpense.resources
+D:\Work\Stock\new06082015\Loan17052017\BarCode\KTV\obj\Debug\CamITSo.frmAsset.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmAsset.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmExpense.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmOwner.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan19052017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmAsset.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmExpense.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmOwner.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan21052017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmAsset.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmExpense.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmOwner.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmRptResource.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmBank.resources
+D:\Work\Stock\new06082015\Loan23052017\BarCode\KTV\obj\Debug\CamITSo.frmHoliday.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\CamITSo.exe.config
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\CamITSo.exe
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\CamITSo.pdb
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\CamITSo.xml
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmAsset.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmBank.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmExchange.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmExpense.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmHoliday.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmOwner.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmSplash.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmAccess.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.Dashboard.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\Loan27052017\BarCode\KTV\obj\Debug\CamITSo.frmChangeCustomer.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmAsset.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmBank.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmChangeCustomer.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmExchange.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmExpense.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmHoliday.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmOwner.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmEmployee.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmUsers.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmResultReport.resources
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Loan Management.exe
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Loan Management.pdb
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\bin\Debug\Loan Management.xml
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\Loan Management.exe
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\Loan Management.xml
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\Loan Management.pdb
+D:\Work\Stock\new06082015\Loan01062017\BarCode\KTV\obj\Debug\CamITSo.frmFirst.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.exe
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.xml
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.pdb
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.exe
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.pdb
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.xml
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmAsset.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmBank.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmChangeCustomer.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmExchange.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmExpense.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmHoliday.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmOwner.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmUsers.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmEmployee.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmFirst.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmResultReport.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Stock\new06082015\Loan06072017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.exe.config
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.exe
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.xml
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.pdb
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.exe
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.pdb
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.xml
+E:\Project\Loan06072017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\Vivat.vbprojResolveAssemblyReference.cache
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.AboutmyPOS.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.MyMessageBox.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frm1.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmAdd.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmAsset.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmAssetType.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmBank.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmChangeCustomer.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmChangePassword.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmChangeStaff.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.FrmCollateral.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmCompany.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.FrmCustomer.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmCustomerReport.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmDelegate.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmDisburshment.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmExchange.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmExpense.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmHoliday.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmIT.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmLocation.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmMaintenance.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmMeasure.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmMessageError.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmOwner.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmPosition.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmProduct.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmRepayment.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmReport.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmReportResource.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmResourceManagement.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmrptSang.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmSang.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmSetup.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmsignin.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.FrmStaff.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmStock.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmUPdateCustomer.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmUpdatePrice.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmuser.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmUsers.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frm_Backup.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.Frm_Connection.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frm_Restore.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.GetSheetNames.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.rptSang.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmEmployee.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmFirst.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmResultReport.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmMain.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmSelectMeeting.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.frmlogin.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.myPOSSplash.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\CamITSo.Resources.resources
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\Vivat.vbproj.GenerateResource.Cache
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\RdlCompile.cache
+E:\Project\Loan06072017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Vivat.vbproj.ResolveComReference.cache
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.exe
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.xml
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.pdb

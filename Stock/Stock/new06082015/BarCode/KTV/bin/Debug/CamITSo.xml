@@ -1,0 +1,800 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CamITSo
+</name>
+</assembly>
+<members>
+<member name="T:CamITSo.TestReport">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CamITSo.TestReportTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.Monyroth.vResourceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.Monyroth.vResourceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.Monyroth.vResourceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.Monyroth">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CamITSo.MonyrothTableAdapters.vResourceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CamITSo.MonyrothTableAdapters.TableAdapterManager.UpdateUpdatedRows(CamITSo.Monyroth,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.MonyrothTableAdapters.TableAdapterManager.UpdateInsertedRows(CamITSo.Monyroth,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.MonyrothTableAdapters.TableAdapterManager.UpdateDeletedRows(CamITSo.Monyroth,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CamITSo.MonyrothTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CamITSo.MonyrothTableAdapters.TableAdapterManager.UpdateAll(CamITSo.Monyroth)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CamITSo.MonyrothTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CamITSo.MonyrothTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CamITSo.MonyrothTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAssetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAssetTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAttendantDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblBrandDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCollateralDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCompanyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCountryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCustomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCustomerxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDelegateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDelegate1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblMeetingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblPositionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblRecordingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblResetPasswordDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblResourceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblRoleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblStaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblUser1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblWinnerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vAssetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vAttendantDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vResourceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vWinnerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAssetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAssetTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAttendantRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblBrandRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCollateralRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCompanyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCountryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCustomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCustomerxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDelegateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDelegate1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblMeetingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblPositionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblRecordingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblResetPasswordRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblResourceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblRoleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblStaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblUser1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblWinnerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vAssetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vAttendantRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vResourceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vWinnerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAssetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAssetTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblAttendantRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblBrandRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCollateralRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCompanyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCountryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCustomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblCustomerxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDelegateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblDelegate1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblMeetingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblPositionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblRecordingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblResetPasswordRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblResourceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblRoleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblStaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblUser1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.tblWinnerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vAssetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vAttendantRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vResourceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS.vWinnerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.MonyrothDS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblAssetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblAssetTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblAttendantTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblBrandTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblCollateralTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblCompanyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblCountryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblCustomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblCustomerxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblDateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblDelegateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblDelegate1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblMeetingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblPositionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblRecordingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblResetPasswordTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblResourceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblRoleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblStaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblUserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblUser1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.tblWinnerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.vAssetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.vAttendantTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.vResourceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.vWinnerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CamITSo.MonyrothDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(CamITSo.MonyrothDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.MonyrothDSTableAdapters.TableAdapterManager.UpdateInsertedRows(CamITSo.MonyrothDS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.MonyrothDSTableAdapters.TableAdapterManager.UpdateDeletedRows(CamITSo.MonyrothDS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CamITSo.MonyrothDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CamITSo.MonyrothDSTableAdapters.TableAdapterManager.UpdateAll(CamITSo.MonyrothDS)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CamITSo.MonyrothDSTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CamITSo.DataSet1.vWinnerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.DataSet1.vWinnerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.DataSet1.vWinnerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CamITSo.DataSet1TableAdapters.vWinnerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.DataSet1TableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CamITSo.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(CamITSo.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(CamITSo.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(CamITSo.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CamITSo.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CamITSo.DataSet1TableAdapters.TableAdapterManager.UpdateAll(CamITSo.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CamITSo.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CamITSo.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CamITSo.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CamITSo.IT">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CamITSo.ITTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.Sales.tblCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblRoleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblMeetingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblPositionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblCountryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.Sales.vAttendantDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblRoleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblMeetingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblPositionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblCountryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.Sales.vAttendantRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.Sales.tblCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.Sales.tblUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.Sales.tblRoleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.Sales.tblMeetingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.Sales.tblPositionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.Sales.tblCountryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.Sales.vAttendantRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.Sales">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.tblCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.tblUserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.tblRoleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.tblMeetingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.tblPositionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.tblCountryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.vAttendantTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CamITSo.SalesTableAdapters.TableAdapterManager.UpdateUpdatedRows(CamITSo.Sales,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.SalesTableAdapters.TableAdapterManager.UpdateInsertedRows(CamITSo.Sales,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.SalesTableAdapters.TableAdapterManager.UpdateDeletedRows(CamITSo.Sales,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CamITSo.SalesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CamITSo.SalesTableAdapters.TableAdapterManager.UpdateAll(CamITSo.Sales)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CamITSo.SalesTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CamITSo.BARCODEDataSet.vActiveCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CamITSo.BARCODEDataSet.vActiveCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CamITSo.BARCODEDataSet.vActiveCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CamITSo.BARCODEDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CamITSo.BARCODEDataSetTableAdapters.vActiveCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CamITSo.BARCODEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CamITSo.BARCODEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.BARCODEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CamITSo.BARCODEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CamITSo.BARCODEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CamITSo.BARCODEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CamITSo.BARCODEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CamITSo.BARCODEDataSetTableAdapters.TableAdapterManager.UpdateAll(CamITSo.BARCODEDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CamITSo.BARCODEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CamITSo.BARCODEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CamITSo.BARCODEDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:CamITSo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CamITSo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CamITSo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

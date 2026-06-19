@@ -1,0 +1,1449 @@
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmAdd.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmBank.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.FrmCollateral.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmCustomerReport.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmIT.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmMeasure.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmProduct.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmReport.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmResourceManagement.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmSang.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmStock.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmUPdateCustomer.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.rptSang.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmMain.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\morokot.Resources.resources
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.exe
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.xml
+D:\Work\Loan06072017\BarCode\KTV\obj\Debug\Loan Management.pdb
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.exe
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.pdb
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Loan Management.xml
+D:\Work\Loan06072017\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\Morokot\BarCode\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Morokot\BarCode\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Work\Morokot\BarCode\KTV\obj\Debug\Loan Management.exe
+D:\Work\Morokot\BarCode\KTV\obj\Debug\Loan Management.xml
+D:\Work\Morokot\BarCode\KTV\obj\Debug\Loan Management.pdb
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Loan Management.exe
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Loan Management.pdb
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Loan Management.xml
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Morokot\BarCode\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmAdd.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmBank.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.FrmCollateral.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmCustomerReport.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmIT.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmMeasure.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmProduct.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmReport.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmResourceManagement.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmSang.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmStock.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmUPdateCustomer.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.rptSang.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmMain.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.Resources.resources
+D:\Work\Morokot\BarCode\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Work\Morokot\BarCode\KTV\obj\Debug\RdlCompile.cache
+D:\Work\Morokot\BarCode\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\Morokot\BarCode\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Work\Morokot\BarCode\KTV\obj\Debug\morokot.frmUserPermissoin.resources
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\Morokot\Morokot\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Morokot\Morokot\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Work\Morokot\Morokot\KTV\obj\Debug\Loan Management.exe
+D:\Work\Morokot\Morokot\KTV\obj\Debug\Loan Management.xml
+D:\Work\Morokot\Morokot\KTV\obj\Debug\Loan Management.pdb
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Loan Management.exe
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Loan Management.pdb
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Loan Management.xml
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Work\Morokot\Morokot\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\Work\Morokot\Morokot\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmBank.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmIT.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmReport.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmUserPermissoin.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmMain.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.Resources.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\IT\Morokot\KTV\bin\Debug\Loan Management.exe.config
+D:\IT\Morokot\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\IT\Morokot\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\IT\Morokot\KTV\obj\Debug\Loan Management.exe
+D:\IT\Morokot\KTV\obj\Debug\Loan Management.xml
+D:\IT\Morokot\KTV\obj\Debug\Loan Management.pdb
+D:\IT\Morokot\KTV\bin\Debug\Admin\frmPosition.resx
+D:\IT\Morokot\KTV\bin\Debug\Admin\frmSetup.resx
+D:\IT\Morokot\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\IT\Morokot\KTV\bin\Debug\Admin\frmPosition.vb
+D:\IT\Morokot\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\IT\Morokot\KTV\bin\Debug\Admin\frmSetup.vb
+D:\IT\Morokot\KTV\bin\Debug\Loan Management.exe
+D:\IT\Morokot\KTV\bin\Debug\Loan Management.pdb
+D:\IT\Morokot\KTV\bin\Debug\Loan Management.xml
+D:\IT\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\IT\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\IT\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\IT\Morokot\KTV\bin\Debug\Interop.SpeechLib.dll
+D:\IT\Morokot\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\IT\Morokot\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmAdd.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmAsset.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmBank.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.FrmCollateral.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmCompany.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmCustomerReport.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmExchange.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmExpense.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmIT.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmLocation.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmMeasure.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmOwner.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmPosition.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmProduct.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmReport.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmResourceManagement.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmSang.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmSetup.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmsignin.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmStock.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmUPdateCustomer.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmUserPermissoin.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmUsers.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.rptSang.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmFirst.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmMain.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.frmlogin.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\IT\Morokot\KTV\obj\Debug\morokot.Resources.resources
+D:\IT\Morokot\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\IT\Morokot\KTV\obj\Debug\RdlCompile.cache
+D:\IT\Morokot\KTV\obj\Debug\RdlCompile.compiled
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmSType.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Work\Morokot\Morokot\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Work\Morokot\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\Morokot\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\Morokot\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Work\Morokot\KTV\obj\Debug\Loan Management.exe
+D:\Work\Morokot\KTV\obj\Debug\Loan Management.xml
+D:\Work\Morokot\KTV\obj\Debug\Loan Management.pdb
+D:\Work\Morokot\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\Morokot\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\Morokot\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\Morokot\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\Morokot\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\Morokot\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\Morokot\KTV\bin\Debug\Loan Management.exe
+D:\Work\Morokot\KTV\bin\Debug\Loan Management.pdb
+D:\Work\Morokot\KTV\bin\Debug\Loan Management.xml
+D:\Work\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Work\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Work\Morokot\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Work\Morokot\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmBank.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmIT.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmReport.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmSType.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmUserPermissoin.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmMain.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Work\Morokot\KTV\obj\Debug\morokot.Resources.resources
+D:\Work\Morokot\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Work\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\New Project\Morokot\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\New Project\Morokot\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\New Project\Morokot\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Work\New Project\Morokot\KTV\obj\Debug\Loan Management.exe
+D:\Work\New Project\Morokot\KTV\obj\Debug\Loan Management.xml
+D:\Work\New Project\Morokot\KTV\obj\Debug\Loan Management.pdb
+D:\Work\New Project\Morokot\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\New Project\Morokot\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\New Project\Morokot\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\New Project\Morokot\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\New Project\Morokot\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\New Project\Morokot\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\New Project\Morokot\KTV\bin\Debug\Loan Management.exe
+D:\Work\New Project\Morokot\KTV\bin\Debug\Loan Management.pdb
+D:\Work\New Project\Morokot\KTV\bin\Debug\Loan Management.xml
+D:\Work\New Project\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\New Project\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\New Project\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Work\New Project\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\New Project\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Work\New Project\Morokot\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmBank.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmIT.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmReport.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmSType.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmUserPermissoin.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmMain.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.Resources.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmExport.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmImport.resources
+D:\Work\New Project\Morokot\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Projects\Application\Morokot\KTV\bin\Debug\Loan Management.exe.config
+D:\Projects\Application\Morokot\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Projects\Application\Morokot\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Projects\Application\Morokot\KTV\obj\Debug\Loan Management.exe
+D:\Projects\Application\Morokot\KTV\obj\Debug\Loan Management.xml
+D:\Projects\Application\Morokot\KTV\obj\Debug\Loan Management.pdb
+D:\Projects\Application\Morokot\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Projects\Application\Morokot\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Projects\Application\Morokot\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Projects\Application\Morokot\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Projects\Application\Morokot\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Projects\Application\Morokot\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Projects\Application\Morokot\KTV\bin\Debug\Loan Management.exe
+D:\Projects\Application\Morokot\KTV\bin\Debug\Loan Management.pdb
+D:\Projects\Application\Morokot\KTV\bin\Debug\Loan Management.xml
+D:\Projects\Application\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\Application\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Application\Morokot\KTV\bin\Debug\System.Web.Services.dll
+D:\Projects\Application\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\Application\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Projects\Application\Morokot\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmBank.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmExport.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmImport.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmIT.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmReport.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmSType.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmUserPermissoin.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmMain.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\morokot.Resources.resources
+D:\Projects\Application\Morokot\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+G:\Morokot\KTV\bin\Debug\Loan Management.exe.config
+G:\Morokot\KTV\obj\Debug\Interop.SpeechLib.dll
+G:\Morokot\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+G:\Morokot\KTV\obj\Debug\Loan Management.exe
+G:\Morokot\KTV\obj\Debug\Loan Management.xml
+G:\Morokot\KTV\obj\Debug\Loan Management.pdb
+D:\Morokot\KTV\bin\Debug\Loan Management.exe.config
+D:\Morokot\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Morokot\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Morokot\KTV\obj\Debug\Loan Management.exe
+D:\Morokot\KTV\obj\Debug\Loan Management.xml
+D:\Morokot\KTV\obj\Debug\Loan Management.pdb
+D:\Morokot\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Morokot\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Morokot\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Morokot\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Morokot\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Morokot\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Morokot\KTV\bin\Debug\Loan Management.exe
+D:\Morokot\KTV\bin\Debug\Loan Management.pdb
+D:\Morokot\KTV\bin\Debug\Loan Management.xml
+D:\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Morokot\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Morokot\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Morokot\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Morokot\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Morokot\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmBank.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Morokot\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmExport.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmImport.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmIT.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmReport.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Morokot\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmSType.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Morokot\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Morokot\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Morokot\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Morokot\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmMain.resources
+D:\Morokot\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Morokot\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Morokot\KTV\obj\Debug\morokot.Resources.resources
+D:\Morokot\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Morokot\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\Work\New Project\M003\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\New Project\M003\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\New Project\M003\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Work\New Project\M003\KTV\obj\Debug\Loan Management.exe
+D:\Work\New Project\M003\KTV\obj\Debug\Loan Management.xml
+D:\Work\New Project\M003\KTV\obj\Debug\Loan Management.pdb
+D:\Work\New Project\M003\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\New Project\M003\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\New Project\M003\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\New Project\M003\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\New Project\M003\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\New Project\M003\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\New Project\M003\KTV\bin\Debug\Loan Management.exe
+D:\Work\New Project\M003\KTV\bin\Debug\Loan Management.pdb
+D:\Work\New Project\M003\KTV\bin\Debug\Loan Management.xml
+D:\Work\New Project\M003\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\New Project\M003\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\New Project\M003\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Work\New Project\M003\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\New Project\M003\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Work\New Project\M003\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmBank.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmExport.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmImport.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmIT.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmReport.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmSType.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmMain.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Work\New Project\M003\KTV\obj\Debug\morokot.Resources.resources
+D:\Work\New Project\M003\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\New Project\M004\KTV\bin\Debug\Loan Management.exe.config
+D:\New Project\M004\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\New Project\M004\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\New Project\M004\KTV\obj\Debug\Loan Management.exe
+D:\New Project\M004\KTV\obj\Debug\Loan Management.xml
+D:\New Project\M004\KTV\obj\Debug\Loan Management.pdb
+D:\New Project\M004\KTV\bin\Debug\Admin\frmPosition.resx
+D:\New Project\M004\KTV\bin\Debug\Admin\frmSetup.resx
+D:\New Project\M004\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\New Project\M004\KTV\bin\Debug\Admin\frmPosition.vb
+D:\New Project\M004\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\New Project\M004\KTV\bin\Debug\Admin\frmSetup.vb
+D:\New Project\M004\KTV\bin\Debug\Loan Management.exe
+D:\New Project\M004\KTV\bin\Debug\Loan Management.pdb
+D:\New Project\M004\KTV\bin\Debug\Loan Management.xml
+D:\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\New Project\M004\KTV\bin\Debug\System.Web.Services.dll
+D:\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\New Project\M004\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\New Project\M004\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\New Project\M004\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmAsset.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmBank.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmCompany.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmExchange.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmExpense.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmExport.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmImport.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmIT.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmLocation.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmOwner.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmPosition.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmReport.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmReportResource.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmrptSang.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmSetup.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmsignin.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmStationary.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmSType.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmUsers.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmFirst.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmMain.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.frmlogin.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\New Project\M004\KTV\obj\Debug\morokot.Resources.resources
+D:\New Project\M004\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\New Project\M004\KTV\bin\Debug\Kernel.dll
+D:\New Project\M004\KTV\bin\Debug\Kernel.pdb
+D:\Work\New Project\M004\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\New Project\M004\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\New Project\M004\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Work\New Project\M004\KTV\obj\Debug\Loan Management.exe
+D:\Work\New Project\M004\KTV\obj\Debug\Loan Management.xml
+D:\Work\New Project\M004\KTV\obj\Debug\Loan Management.pdb
+D:\Work\New Project\M004\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\New Project\M004\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\New Project\M004\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\New Project\M004\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\New Project\M004\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\New Project\M004\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\New Project\M004\KTV\bin\Debug\Loan Management.exe
+D:\Work\New Project\M004\KTV\bin\Debug\Loan Management.pdb
+D:\Work\New Project\M004\KTV\bin\Debug\Loan Management.xml
+D:\Work\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\New Project\M004\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Work\New Project\M004\KTV\bin\Debug\Kernel.pdb
+D:\Work\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\New Project\M004\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Work\New Project\M004\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmBank.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmExport.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmImport.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmIT.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmReport.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmSType.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmMain.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Work\New Project\M004\KTV\obj\Debug\morokot.Resources.resources
+D:\Work\New Project\M004\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Loan Management.exe.config
+D:\Monyroth\New Project\M004\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Monyroth\New Project\M004\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Monyroth\New Project\M004\KTV\obj\Debug\Loan Management.exe
+D:\Monyroth\New Project\M004\KTV\obj\Debug\Loan Management.xml
+D:\Monyroth\New Project\M004\KTV\obj\Debug\Loan Management.pdb
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Loan Management.exe
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Loan Management.pdb
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Loan Management.xml
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Monyroth\New Project\M004\KTV\bin\Debug\System.Web.Services.dll
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Kernel.pdb
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Monyroth\New Project\M004\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Monyroth\New Project\M004\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmBank.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmExport.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmImport.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmIT.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmReport.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmSType.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmMain.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\morokot.Resources.resources
+D:\Monyroth\New Project\M004\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Loan Management.exe.config
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\Loan Management.exe
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\Loan Management.xml
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\Loan Management.pdb
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Loan Management.exe
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Loan Management.pdb
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Loan Management.xml
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\System.Web.Services.dll
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Kernel.pdb
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Monyroth\New Project\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmBank.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmExport.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmImport.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmIT.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmReport.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmSType.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmMain.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\morokot.Resources.resources
+D:\Monyroth\New Project\M004 - New\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Loan Management.exe.config
+D:\Work\New Project\M004 - New\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Work\New Project\M004 - New\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Work\New Project\M004 - New\KTV\obj\Debug\Loan Management.exe
+D:\Work\New Project\M004 - New\KTV\obj\Debug\Loan Management.xml
+D:\Work\New Project\M004 - New\KTV\obj\Debug\Loan Management.pdb
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Loan Management.exe
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Loan Management.pdb
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Loan Management.xml
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\New Project\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmBank.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmExport.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmImport.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmIT.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmReport.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmSType.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmMain.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.Resources.resources
+D:\Work\New Project\M004 - New\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Work\New Project\M004 - New\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Loan Management.exe.config
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Loan Management.exe
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Loan Management.xml
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Loan Management.pdb
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Loan Management.exe
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Loan Management.pdb
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Loan Management.xml
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\System.Web.Services.dll
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmBank.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmExport.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmImport.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmIT.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmReport.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmSType.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmMain.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.Resources.resources
+D:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Loan Management.exe.config
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Interop.SpeechLib.dll
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Loan Management.exe
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Loan Management.xml
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Loan Management.pdb
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmPosition.resx
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmSetup.resx
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmPosition.vb
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Admin\frmSetup.vb
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Loan Management.exe
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Loan Management.pdb
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Loan Management.xml
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.AboutmyPOS.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.MyMessageBox.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmAsset.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmAssetType.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmBank.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmChangeLocation.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmChangePassword.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmChangeStaff.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmCompany.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.FrmCustomer.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmDelegate.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmDisburshment.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmExchange.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmExpense.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmExport.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmHoliday.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmImport.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmIT.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmLocation.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmMaintenance.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmMessageError.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmOtherIncome.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmOwner.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmPosition.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmPrivileges.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmRepayment.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmReport.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmSetup.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmsignin.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.FrmStaff.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmStationary.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmStationaryIn.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmStationaryOut.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmSType.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmUsers.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmWiteOff.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frm_Backup.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.Frm_Connection.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frm_Restore.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.GetSheetNames.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmEmployee.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmFirst.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmResultReport.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmMain.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.frmlogin.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.myPOSSplash.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\morokot.Resources.resources
+E:\Monyroth\New Project\M004 - New\M004 - New\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Work\New Project\M004 - New\KTV\obj\Debug\morokot.FCustomer.resources
+D:\M004 - New\KTV\bin\Debug\Loan Management.exe.config
+D:\M004 - New\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\M004 - New\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\M004 - New\KTV\obj\Debug\Loan Management.exe
+D:\M004 - New\KTV\obj\Debug\Loan Management.xml
+D:\M004 - New\KTV\obj\Debug\Loan Management.pdb
+D:\M004 - New\KTV\bin\Debug\Admin\frmPosition.resx
+D:\M004 - New\KTV\bin\Debug\Admin\frmSetup.resx
+D:\M004 - New\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\M004 - New\KTV\bin\Debug\Admin\frmPosition.vb
+D:\M004 - New\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\M004 - New\KTV\bin\Debug\Admin\frmSetup.vb
+D:\M004 - New\KTV\bin\Debug\Loan Management.exe
+D:\M004 - New\KTV\bin\Debug\Loan Management.pdb
+D:\M004 - New\KTV\bin\Debug\Loan Management.xml
+D:\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\M004 - New\KTV\bin\Debug\Kernel.pdb
+D:\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\M004 - New\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\M004 - New\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\M004 - New\KTV\obj\Debug\morokot.FCustomer.resources
+D:\M004 - New\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmAsset.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmBank.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmCompany.resources
+D:\M004 - New\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmExchange.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmExpense.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmExport.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmImport.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmIT.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmLocation.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmOwner.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmPosition.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmReport.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmSetup.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmsignin.resources
+D:\M004 - New\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmStationary.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmSType.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmUsers.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\M004 - New\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\M004 - New\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmFirst.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmMain.resources
+D:\M004 - New\KTV\obj\Debug\morokot.frmlogin.resources
+D:\M004 - New\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\M004 - New\KTV\obj\Debug\morokot.Resources.resources
+D:\M004 - New\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\M004 - New\KTV\bin\Debug\Kernel.dll
+D:\M004 - New\KTV\bin\Debug\System.Web.Services.dll
+E:\M004 - New\KTV\bin\Debug\Loan Management.exe.config
+E:\M004 - New\KTV\obj\Debug\Interop.SpeechLib.dll
+E:\M004 - New\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+E:\M004 - New\KTV\obj\Debug\Loan Management.exe
+E:\M004 - New\KTV\obj\Debug\Loan Management.xml
+E:\M004 - New\KTV\obj\Debug\Loan Management.pdb
+E:\M004 - New\KTV\bin\Debug\Admin\frmPosition.resx
+E:\M004 - New\KTV\bin\Debug\Admin\frmSetup.resx
+E:\M004 - New\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+E:\M004 - New\KTV\bin\Debug\Admin\frmPosition.vb
+E:\M004 - New\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+E:\M004 - New\KTV\bin\Debug\Admin\frmSetup.vb
+E:\M004 - New\KTV\bin\Debug\Loan Management.exe
+E:\M004 - New\KTV\bin\Debug\Loan Management.pdb
+E:\M004 - New\KTV\bin\Debug\Loan Management.xml
+E:\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\M004 - New\KTV\bin\Debug\Kernel.pdb
+E:\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\M004 - New\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+E:\M004 - New\KTV\obj\Debug\morokot.AboutmyPOS.resources
+E:\M004 - New\KTV\obj\Debug\morokot.FCustomer.resources
+E:\M004 - New\KTV\obj\Debug\morokot.MyMessageBox.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmAsset.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmAssetType.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmBank.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmChangeLocation.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmChangePassword.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmChangeStaff.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmCompany.resources
+E:\M004 - New\KTV\obj\Debug\morokot.FrmCustomer.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmDelegate.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmDisburshment.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmExchange.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmExpense.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmExport.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmHoliday.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmImport.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmIT.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmLocation.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmMaintenance.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmMessageError.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmOtherIncome.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmOwner.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmPosition.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmPrivileges.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmRepayment.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmReport.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmSetup.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmsignin.resources
+E:\M004 - New\KTV\obj\Debug\morokot.FrmStaff.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmStationary.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmStationaryIn.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmStationaryOut.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmSType.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmUsers.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmWiteOff.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frm_Backup.resources
+E:\M004 - New\KTV\obj\Debug\morokot.Frm_Connection.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frm_Restore.resources
+E:\M004 - New\KTV\obj\Debug\morokot.GetSheetNames.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmEmployee.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmFirst.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmResultReport.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmMain.resources
+E:\M004 - New\KTV\obj\Debug\morokot.frmlogin.resources
+E:\M004 - New\KTV\obj\Debug\morokot.myPOSSplash.resources
+E:\M004 - New\KTV\obj\Debug\morokot.Resources.resources
+E:\M004 - New\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Monyroth\M004 - New\KTV\bin\Debug\Loan Management.exe.config
+D:\Monyroth\M004 - New\KTV\obj\Debug\Interop.SpeechLib.dll
+D:\Monyroth\M004 - New\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+D:\Monyroth\M004 - New\KTV\obj\Debug\Loan Management.exe
+D:\Monyroth\M004 - New\KTV\obj\Debug\Loan Management.xml
+D:\Monyroth\M004 - New\KTV\obj\Debug\Loan Management.pdb
+D:\Monyroth\M004 - New\KTV\obj\Debug\Morokot.vbprojResolveAssemblyReference.cache
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.AboutmyPOS.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.FCustomer.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.MyMessageBox.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmAsset.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmAssetType.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmBank.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmChangeLocation.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmChangePassword.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmChangeStaff.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmCompany.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.FrmCustomer.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmDelegate.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmDisburshment.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmExchange.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmExpense.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmExport.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmHoliday.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmImport.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmIT.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmLocation.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmMaintenance.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmMessageError.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmOtherIncome.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmOwner.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmPosition.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmPrivileges.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmRepayment.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmReport.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmSetup.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmsignin.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.FrmStaff.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmStationary.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmStationaryIn.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmStationaryOut.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmSType.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmUsers.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmWiteOff.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frm_Backup.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.Frm_Connection.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frm_Restore.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.GetSheetNames.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmEmployee.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmFirst.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmResultReport.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmMain.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.frmlogin.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.myPOSSplash.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\morokot.Resources.resources
+D:\Monyroth\M004 - New\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+D:\Monyroth\M004 - New\KTV\bin\Debug\Admin\frmPosition.resx
+D:\Monyroth\M004 - New\KTV\bin\Debug\Admin\frmSetup.resx
+D:\Monyroth\M004 - New\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+D:\Monyroth\M004 - New\KTV\bin\Debug\Admin\frmPosition.vb
+D:\Monyroth\M004 - New\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+D:\Monyroth\M004 - New\KTV\bin\Debug\Admin\frmSetup.vb
+D:\Monyroth\M004 - New\KTV\bin\Debug\Loan Management.exe
+D:\Monyroth\M004 - New\KTV\bin\Debug\Loan Management.pdb
+D:\Monyroth\M004 - New\KTV\bin\Debug\Loan Management.xml
+D:\Monyroth\M004 - New\KTV\bin\Debug\Kernel.dll
+D:\Monyroth\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Monyroth\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Monyroth\M004 - New\KTV\bin\Debug\System.Web.Services.dll
+D:\Monyroth\M004 - New\KTV\bin\Debug\Kernel.pdb
+D:\Monyroth\M004 - New\KTV\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Monyroth\M004 - New\KTV\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml

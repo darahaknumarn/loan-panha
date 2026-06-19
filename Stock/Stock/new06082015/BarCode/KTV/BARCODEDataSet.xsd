@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BARCODEDataSet" targetNamespace="http://tempuri.org/BARCODEDataSet.xsd" xmlns:mstns="http://tempuri.org/BARCODEDataSet.xsd" xmlns="http://tempuri.org/BARCODEDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="BARCODEConnectionString4" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BARCODEConnectionString4 (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CamITSo.My.MySettings.GlobalReference.Default.BARCODEConnectionString4" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vActiveCustomerTableAdapter" GeneratorDataComponentClassName="vActiveCustomerTableAdapter" Name="vActiveCustomer" UserDataComponentName="vActiveCustomerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BARCODEConnectionString4 (MySettings)" DbObjectName="BARCODE.dbo.vActiveCustomer" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT CM_ID, CM_Name, VL_ID FROM dbo.vActiveCustomer</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CM_ID" DataSetColumn="CM_ID" />
+              <Mapping SourceColumn="CM_Name" DataSetColumn="CM_Name" />
+              <Mapping SourceColumn="VL_ID" DataSetColumn="VL_ID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BARCODEDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="BARCODEDataSet" msprop:Generator_UserDSName="BARCODEDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vActiveCustomer" msprop:Generator_TableClassName="vActiveCustomerDataTable" msprop:Generator_TableVarName="tablevActiveCustomer" msprop:Generator_TablePropName="vActiveCustomer" msprop:Generator_RowDeletingName="vActiveCustomerRowDeleting" msprop:Generator_RowChangingName="vActiveCustomerRowChanging" msprop:Generator_RowEvHandlerName="vActiveCustomerRowChangeEventHandler" msprop:Generator_RowDeletedName="vActiveCustomerRowDeleted" msprop:Generator_UserTableName="vActiveCustomer" msprop:Generator_RowChangedName="vActiveCustomerRowChanged" msprop:Generator_RowEvArgName="vActiveCustomerRowChangeEvent" msprop:Generator_RowClassName="vActiveCustomerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CM_ID" msprop:Generator_ColumnVarNameInTable="columnCM_ID" msprop:Generator_ColumnPropNameInRow="CM_ID" msprop:Generator_ColumnPropNameInTable="CM_IDColumn" msprop:Generator_UserColumnName="CM_ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CM_Name" msprop:Generator_ColumnVarNameInTable="columnCM_Name" msprop:Generator_ColumnPropNameInRow="CM_Name" msprop:Generator_ColumnPropNameInTable="CM_NameColumn" msprop:Generator_UserColumnName="CM_Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VL_ID" msprop:Generator_ColumnVarNameInTable="columnVL_ID" msprop:Generator_ColumnPropNameInRow="VL_ID" msprop:Generator_ColumnPropNameInTable="VL_IDColumn" msprop:Generator_UserColumnName="VL_ID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

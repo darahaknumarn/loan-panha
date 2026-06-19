@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="vTruckExpense">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TrackID" type="xs:int" minOccurs="0" />
+                <xs:element name="Tables" type="xs:string" minOccurs="0" />
+                <xs:element name="FullName" type="xs:string" minOccurs="0" />
+                <xs:element name="PName" type="xs:string" minOccurs="0" />
+                <xs:element name="UM" type="xs:string" minOccurs="0" />
+                <xs:element name="QTY" type="xs:int" minOccurs="0" />
+                <xs:element name="UnitPrice" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Currency" type="xs:string" minOccurs="0" />
+                <xs:element name="XRate" type="xs:double" minOccurs="0" />
+                <xs:element name="TruckID" type="xs:int" minOccurs="0" />
+                <xs:element name="Driver" type="xs:int" minOccurs="0" />
+                <xs:element name="ProID" type="xs:int" minOccurs="0" />
+                <xs:element name="UOM" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <vTruckExpense>
+    <TrackID>4</TrackID>
+    <Tables>650</Tables>
+    <FullName>Jacop</FullName>
+    <PName>ថ្ម 1x2</PName>
+    <UM>set</UM>
+    <QTY>1</QTY>
+    <UnitPrice>3.0000</UnitPrice>
+    <Currency>Dollars (USD)                                     </Currency>
+    <XRate>4100</XRate>
+    <TruckID>64</TruckID>
+    <Driver>4</Driver>
+    <ProID>33</ProID>
+    <UOM>7</UOM>
+  </vTruckExpense>
+</NewDataSet>

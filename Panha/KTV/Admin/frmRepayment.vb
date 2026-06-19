@@ -480,7 +480,7 @@ Public Class frmRepayment
         Dim Int As Double = 0
         Dim iRow = Me.DataGridView1.CurrentCell.RowIndex
         Dim oDt As New System.Data.DataTable
-        Dim Str As String = "exec sp_repay1 '" & LD_ID & "','" & frmMain.lblCode.Text & "','" & DateToPay & "','" & LD_ID & "'"
+        Dim Str As String = "exec sp_repay1 '" & LD_ID & "','" & frmMain.lblCode.Text & "','" & DateToPay & "','" & LR_ID & "'"
         oDt.Clear()
         oDa = New SqlDataAdapter(Str, g_cnn)
         oDa.Fill(oDt)
@@ -499,7 +499,7 @@ Public Class frmRepayment
         Dim Int As Double = 0
         Dim iRow = Me.DataGridView1.CurrentCell.RowIndex
         Dim oDt As New System.Data.DataTable
-        Dim Str As String = "exec sp_repay1 '" & LD_ID & "','" & frmMain.lblCode.Text & "','" & DateToPay & "','" & LD_ID & "'"
+        Dim Str As String = "exec sp_repay1 '" & LD_ID & "','" & frmMain.lblCode.Text & "','" & DateToPay & "','" & LR_ID & "'"
         oDt.Clear()
         oDa = New SqlDataAdapter(Str, g_cnn)
         oDa.Fill(oDt)

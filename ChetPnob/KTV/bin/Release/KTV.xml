@@ -1,0 +1,636 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KTV
+</name>
+</assembly>
+<members>
+<member name="T:KTV.Sales.vSalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.vPODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.vExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.vIncomeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblUOMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblEmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.vProductByWareHouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.vQuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.vInvoiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblSupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblTaxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.tblRoleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Sales.vSalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.vPORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.vExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.vIncomeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblUOMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblEmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.vProductByWareHouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.vQuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.vInvoiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblSupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblTaxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.tblRoleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Sales.vSalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.vPORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.vExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.vIncomeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblUOMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblEmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.vProductByWareHouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.vQuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.vInvoiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblSupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblTaxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales.tblRoleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Sales">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.vSalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.vPOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.vExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.vIncomeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblUOMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblEmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.vProductByWareHouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.vQuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.vInvoiceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblUserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblSupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblTaxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.tblRoleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KTV.SalesTableAdapters.TableAdapterManager.UpdateUpdatedRows(KTV.Sales,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KTV.SalesTableAdapters.TableAdapterManager.UpdateInsertedRows(KTV.Sales,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KTV.SalesTableAdapters.TableAdapterManager.UpdateDeletedRows(KTV.Sales,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KTV.SalesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KTV.SalesTableAdapters.TableAdapterManager.UpdateAll(KTV.Sales)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KTV.SalesTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KTV.EmpSalary.tblEmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.EmpSalary.tblEmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.EmpSalary.tblEmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.EmpSalary">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KTV.EmpSalaryTableAdapters.tblEmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KTV.EmpSalaryTableAdapters.TableAdapterManager.UpdateUpdatedRows(KTV.EmpSalary,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KTV.EmpSalaryTableAdapters.TableAdapterManager.UpdateInsertedRows(KTV.EmpSalary,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KTV.EmpSalaryTableAdapters.TableAdapterManager.UpdateDeletedRows(KTV.EmpSalary,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KTV.EmpSalaryTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KTV.EmpSalaryTableAdapters.TableAdapterManager.UpdateAll(KTV.EmpSalary)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KTV.EmpSalaryTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KTV.EmpSalaryTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KTV.EmpSalaryTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KTV.productInstock.vProductByWareHouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.productInstock.vInstallmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.productInstock.TruckExpenseIncomeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.productInstock.vTruckIncomeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.productInstock.vTruckExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.productInstock.tblTransactionDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.productInstock.vProductByWareHouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.productInstock.vInstallmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.productInstock.TruckExpenseIncomeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.productInstock.vTruckIncomeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.productInstock.vTruckExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.productInstock.tblTransactionDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.productInstock.vProductByWareHouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.productInstock.vInstallmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.productInstock.TruckExpenseIncomeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.productInstock.vTruckIncomeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.productInstock.vTruckExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.productInstock.tblTransactionDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.productInstock">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.vProductByWareHouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.vInstallmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.TruckExpenseIncomeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.vTruckIncomeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.vTruckExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.tblTransactionDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KTV.productInstockTableAdapters.TableAdapterManager.UpdateUpdatedRows(KTV.productInstock,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KTV.productInstockTableAdapters.TableAdapterManager.UpdateInsertedRows(KTV.productInstock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KTV.productInstockTableAdapters.TableAdapterManager.UpdateDeletedRows(KTV.productInstock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KTV.productInstockTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KTV.productInstockTableAdapters.TableAdapterManager.UpdateAll(KTV.productInstock)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KTV.productInstockTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:KTV.TruckTransaction.tblTransactionDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.TruckTransaction.tblTransactionDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.TruckTransaction.tblTransactionDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.TruckTransaction">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KTV.TruckTransactionTableAdapters.tblTransactionDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KTV.TruckTransactionTableAdapters.TableAdapterManager.UpdateUpdatedRows(KTV.TruckTransaction,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KTV.TruckTransactionTableAdapters.TableAdapterManager.UpdateInsertedRows(KTV.TruckTransaction,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KTV.TruckTransactionTableAdapters.TableAdapterManager.UpdateDeletedRows(KTV.TruckTransaction,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KTV.TruckTransactionTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KTV.TruckTransactionTableAdapters.TableAdapterManager.UpdateAll(KTV.TruckTransaction)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KTV.TruckTransactionTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KTV.TruckTransactionTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KTV.TruckTransactionTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:KTV.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KTV.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:KTV.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:KTV.Stock.vListPriceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Stock.tblWarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KTV.Stock.vListPriceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Stock.tblWarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KTV.Stock.vListPriceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Stock.tblWarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KTV.Stock">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KTV.StockTableAdapters.vListPriceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KTV.StockTableAdapters.tblWarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KTV.StockTableAdapters.TableAdapterManager.UpdateUpdatedRows(KTV.Stock,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KTV.StockTableAdapters.TableAdapterManager.UpdateInsertedRows(KTV.Stock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KTV.StockTableAdapters.TableAdapterManager.UpdateDeletedRows(KTV.Stock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KTV.StockTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KTV.StockTableAdapters.TableAdapterManager.UpdateAll(KTV.Stock)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KTV.StockTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KTV.StockTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KTV.StockTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

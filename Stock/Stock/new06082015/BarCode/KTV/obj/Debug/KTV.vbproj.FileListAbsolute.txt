@@ -1,0 +1,176 @@
+D:\Softwares\soft\KTVPOS\KTV\bin\Debug\KTV.exe
+D:\Softwares\soft\KTVPOS\KTV\bin\Debug\KTV.pdb
+D:\Softwares\soft\KTVPOS\KTV\bin\Debug\KTV.xml
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.AboutmyPOS.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmcategory.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmChangePassword.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmsearchproduct.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmcloseshift.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmConfiguration.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmExpense.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmGL.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmIncome.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmmergeTicket.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPO.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmroomDetail.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmsplitReceipt.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmticket.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmCustomerReport.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmCustomers.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmfloor.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmMain.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmMaintenance.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmpayment.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPrinter.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmproducts.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmresource.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmrole.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmroomMaster.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmRoomReport.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmSales.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmsalesreport.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmStock.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmstockmanage.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtables.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtax.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmuser.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmwarehouse.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmlogin.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.myPOSSplash.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.Resources.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.productwarehouse.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.exe
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.xml
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.pdb
+D:\Softwares\soft\KTVPOS\KTV\bin\Debug\KTV.exe.config
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.vbproj.ResolveComReference.cache
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmAsset.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmAssetMovement.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmGR.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmJE.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmLoan.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPayroll.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmpopup.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmSetup.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmsignin.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmUOM.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmWriteOff.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frm_Backup.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frm_Restore.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmInstallment.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmInvoice.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmlistpriceRPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmQuotation.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmTrackTransaction.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmTrackTruckReports.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtruckExpense.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtruckExpenseRpt.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtruckPO.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmTruckSupplier.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmInstallmentRPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmEmpListRPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmEmployees.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmSupplier.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmInvoiceRPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmQuotationRPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmviewProductRPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmempBIO.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmExpRPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmIncomeRPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPORPT.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmReceiptRpt.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\RdlCompile.cache
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\RdlCompile.compiled
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.Frm_Connection.resources
+D:\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPayrollRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\bin\Debug\KTV.exe.config
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.vbproj.ResolveComReference.cache
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.exe
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.xml
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.pdb
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\bin\Debug\KTV.exe
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\bin\Debug\KTV.pdb
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\bin\Debug\KTV.xml
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\ResolveAssemblyReference.cache
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.AboutmyPOS.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmAsset.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmAssetMovement.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmcategory.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmChangePassword.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmGR.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmJE.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmLoan.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPayroll.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmpopup.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmsearchproduct.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmSetup.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmsignin.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmUOM.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmWriteOff.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frm_Backup.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.Frm_Connection.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frm_Restore.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmcloseshift.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmConfiguration.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmInstallment.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmInvoice.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmlistpriceRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmQuotation.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmSales.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmTrackTransaction.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmTrackTruckReports.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtruckExpense.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtruckExpenseRpt.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtruckPO.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmTruckSupplier.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmInstallmentRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmEmpListRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmEmployees.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmExpense.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmSupplier.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmInvoiceRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmQuotationRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmviewProductRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmempBIO.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPayrollRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmExpRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmGL.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmIncome.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmIncomeRPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmmergeTicket.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPO.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPORPT.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmReceiptRpt.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmroomDetail.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmsplitReceipt.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmticket.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmCustomerReport.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmCustomers.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmfloor.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmMain.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmMaintenance.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmpayment.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmPrinter.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmproducts.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmresource.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmrole.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmroomMaster.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmRoomReport.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmsalesreport.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmStock.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmstockmanage.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtables.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmtax.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmuser.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmwarehouse.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.frmlogin.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.myPOSSplash.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.Resources.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\KTV.productwarehouse.resources
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\RdlCompile.cache
+D:\data\softwarefromold latop\Softwares\soft\KTVPOS\KTV\obj\Debug\RdlCompile.compiled
