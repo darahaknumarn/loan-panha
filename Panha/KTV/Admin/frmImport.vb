@@ -28,7 +28,7 @@ Public Class frmImport
     End Sub
     Private Sub restore()
         Dim dbcmd As SqlCommand
-        Dim db As String = "TempPanha"
+        Dim db As String = "TempMorokot"
         Try
             'dbcon = New SqlConnection("Data Source=.;Integrated Security=SSPI;Initial Catalog=master")
             Dim CMD As String = "USE master" & _

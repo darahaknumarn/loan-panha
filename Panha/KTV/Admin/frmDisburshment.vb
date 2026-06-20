@@ -351,10 +351,26 @@ Public Class frmDisburshment
                         If serviceVal = "មាន" Then
                             If row.Cells("coCurrency").Value.ToString = "រៀល" Then
                                 Select Case row.Cells("coUnit").Value.ToString
-                                    Case "ថ្ងៃ" : SH_Service = 500
-                                    Case "សប្តាហ៍" : SH_Service = 1000
-                                    Case "២សប្តាហ៍", "២សប្តាហ៍ធ្វើការ" : SH_Service = 2000
-                                    Case Else : SH_Service = 4000
+                                    Case "ថ្ងៃ"
+                                        If DisAmt <= 1000000 Then
+                                            SH_Service = 1300
+                                        Else
+                                            SH_Service = DisAmt * 0.13
+                                        End If
+                                    Case "សប្តាហ៍"
+                                        If DisAmt <= 1000000 Then
+                                            SH_Service = 2500
+                                        Else
+                                            SH_Service = DisAmt * 0.25
+                                        End If
+                                    Case "២សប្តាហ៍", "២សប្តាហ៍ធ្វើការ"
+                                        If DisAmt <= 1000000 Then
+                                            SH_Service = 4000
+                                        Else
+                                            SH_Service = DisAmt * 0.35
+                                        End If
+                                    Case Else
+                                        SH_Service = 4000
                                 End Select
                             Else
                                 SH_Service = 1
@@ -1592,49 +1608,56 @@ Public Class frmDisburshment
         oDa.Dispose()
         oDt.Dispose()
         '-------------------------------- "D:\LoanSystem\Program\Report\DepositSchedule.xls"
-        Dim excelBook As Excel.Workbook = xlApp.Workbooks.Open(frmMain.strPath & "\sample\Schedule-for-Tax.xlsx", False, True)
-        Dim excelWorksheet As Excel.Worksheet = CType(excelBook.Worksheets("Sheet1"), Excel.Worksheet)
-        xlApp.Visible = True
-        'cnn = New SqlConnection(connectionString1)
-        'cnn.Open()
-        sql = "select convert( varchar(12),SH_Date,101) SH_Date,case  when DATENAME(WEEKDAY,SH_Date)=N'Monday'then 1 when DATENAME(WEEKDAY,SH_Date)=N'Tuesday' then 2 when DATENAME(WEEKDAY,SH_Date)=N'Wednesday' then 3 when DATENAME(WEEKDAY,SH_Date)=N'Thursday' then 4 when DATENAME(WEEKDAY,SH_Date)=N'Friday' then 5 else 0 end'Day''Day',SH_Prn_Amt+SH_Int_Amt+isnull(SH_Service,0),SH_Prn_Amt,SH_Int_Amt,SH_Balance from BK_LoanSchedule where LD_ID='" & LD_ID & "' and SH_BrId='" & frmMain.lblCode.Text & "'"
-        Dim count As Integer = getData("select COUNT(LD_ID) from BK_LoanSchedule where LD_ID='" & LD_ID & "' and SH_BrId='" & frmMain.lblCode.Text & "'")
-        Dim dscmd As New SqlDataAdapter(sql, g_cnn)
-        Dim ds As New DataSet()
-        dscmd.Fill(ds)
-        With excelWorksheet
-            .Range("A8:A" & count + 4).EntireRow.Insert()
-            '.Range("C2").Value = LD_ID
-            '.Range("C3").Value = val1
-            .Range("B3").Value = CM_Name
-            .Range("B4").Value = CM_Address
-            '.Range("E2").Value = val4
-            '.Range("E3").Value = val5
-            .Range("G5").Value = val6
-            .Range("G4").Value = val7
-            '.Range("G2").Value = val8
-            .Range("G3").Value = val9
-            '.Range("G4").Value = val10
-            .Range("H3").Value = val11
-            For i = 0 To ds.Tables(0).Rows.Count - 1
-                For j = 0 To ds.Tables(0).Columns.Count - 1
-                    data = ds.Tables(0).Rows(i).ItemArray(j).ToString()
-                    .Cells(i + 7, j + 2) = data
-                    .Cells(i + 7, 1) = i + 1
+        Try
+            xlApp.DisplayAlerts = False
+            Dim excelBook As Excel.Workbook = xlApp.Workbooks.Open(frmMain.strPath & "\sample\Schedule-for-Tax.xlsx", False, True)
+            Dim excelWorksheet As Excel.Worksheet = CType(excelBook.Worksheets("Sheet1"), Excel.Worksheet)
+            xlApp.Visible = True
+            'cnn = New SqlConnection(connectionString1)
+            'cnn.Open()
+            sql = "select convert( varchar(12),SH_Date,101) SH_Date,case  when DATENAME(WEEKDAY,SH_Date)=N'Monday'then 1 when DATENAME(WEEKDAY,SH_Date)=N'Tuesday' then 2 when DATENAME(WEEKDAY,SH_Date)=N'Wednesday' then 3 when DATENAME(WEEKDAY,SH_Date)=N'Thursday' then 4 when DATENAME(WEEKDAY,SH_Date)=N'Friday' then 5 else 0 end'Day''Day',SH_Prn_Amt+SH_Int_Amt+isnull(SH_Service,0),SH_Prn_Amt,SH_Int_Amt,SH_Balance from BK_LoanSchedule where LD_ID='" & LD_ID & "' and SH_BrId='" & frmMain.lblCode.Text & "'"
+            Dim count As Integer = getData("select COUNT(LD_ID) from BK_LoanSchedule where LD_ID='" & LD_ID & "' and SH_BrId='" & frmMain.lblCode.Text & "'")
+            Dim dscmd As New SqlDataAdapter(sql, g_cnn)
+            Dim ds As New DataSet()
+            dscmd.Fill(ds)
+            With excelWorksheet
+                .Range("A8:A" & count + 4).EntireRow.Insert()
+                '.Range("C2").Value = LD_ID
+                '.Range("C3").Value = val1
+                .Range("B3").Value = CM_Name
+                .Range("B4").Value = CM_Address
+                '.Range("E2").Value = val4
+                '.Range("E3").Value = val5
+                .Range("G5").Value = val6
+                .Range("G4").Value = val7
+                '.Range("G2").Value = val8
+                .Range("G3").Value = val9
+                '.Range("G4").Value = val10
+                .Range("H3").Value = val11
+                For i = 0 To ds.Tables(0).Rows.Count - 1
+                    For j = 0 To ds.Tables(0).Columns.Count - 1
+                        data = ds.Tables(0).Rows(i).ItemArray(j).ToString()
+                        .Cells(i + 7, j + 2) = data
+                        .Cells(i + 7, 1) = i + 1
+                    Next
+                    If .Cells(i + 7, 3).value = 1 Then
+                        .Cells(i + 7, 3) = "ច័ន្ទ"
+                    ElseIf .Cells(i + 7, 3).value = 2 Then
+                        .Cells(i + 7, 3) = "អង្គារ"
+                    ElseIf .Cells(i + 7, 3).value = 3 Then
+                        .Cells(i + 7, 3) = "ពុធ"
+                    ElseIf .Cells(i + 7, 3).value = 4 Then
+                        .Cells(i + 7, 3) = "ព្រហស្បតិ៍"
+                    ElseIf .Cells(i + 7, 3).value = 5 Then
+                        .Cells(i + 7, 3) = "សុក្រ"
+                    End If
                 Next
-                If .Cells(i + 7, 3).value = 1 Then
-                    .Cells(i + 7, 3) = "ច័ន្ទ"
-                ElseIf .Cells(i + 7, 3).value = 2 Then
-                    .Cells(i + 7, 3) = "អង្គារ"
-                ElseIf .Cells(i + 7, 3).value = 3 Then
-                    .Cells(i + 7, 3) = "ពុធ"
-                ElseIf .Cells(i + 7, 3).value = 4 Then
-                    .Cells(i + 7, 3) = "ព្រហស្បតិ៍"
-                ElseIf .Cells(i + 7, 3).value = 5 Then
-                    .Cells(i + 7, 3) = "សុក្រ"
-                End If
-            Next
-        End With
+            End With
+            xlApp.DisplayAlerts = True
+        Catch ex As Exception
+            xlApp.DisplayAlerts = True
+            MessageBox.Show(ex.ToString, "IT Solution", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        End Try
     End Sub
     Public Sub toExcel(ByVal LD_ID As String, ByVal index As Integer)
         Dim iRow = index
