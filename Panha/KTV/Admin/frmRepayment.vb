@@ -1250,52 +1250,52 @@ Public Class frmRepayment
     End Sub
     Private Sub toExcelFormat(ByVal LD_ID As Integer)
         Try
-        Dim iRow1 = Me.DataGridView1.CurrentCell.RowIndex
+            Dim iRow1 = Me.DataGridView1.CurrentCell.RowIndex
             Dim connectionString As String = Nothing
-        Dim sql As String = Nothing
-        Dim data As String = Nothing
-        Dim i As Integer = 0
-        Dim j As Integer = 0
-        System.Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.WaitCursor
-        Dim xlApp As New Excel.Application
-        Dim misValue As Object = System.Reflection.Missing.Value
-        xlApp = New Excel.Application()
+            Dim sql As String = Nothing
+            Dim data As String = Nothing
+            Dim i As Integer = 0
+            Dim j As Integer = 0
+            System.Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.WaitCursor
+            Dim xlApp As New Excel.Application
+            Dim misValue As Object = System.Reflection.Missing.Value
+            xlApp = New Excel.Application()
             ' ''-----------------------------------------------------------------------------
             'MessageBox.Show(frmMain.strPath.ToString)
             'Return
             Dim excelBook As Excel.Workbook = xlApp.Workbooks.Open(frmMain.strPath & "\Sample\LoanAudit.xls", False, True)
-        Dim excelWorksheet As Excel.Worksheet = CType(excelBook.Worksheets("Sheet2"), Excel.Worksheet)
-        xlApp.Visible = True
+            Dim excelWorksheet As Excel.Worksheet = CType(excelBook.Worksheets("Sheet2"), Excel.Worksheet)
+            xlApp.Visible = True
             sql = "Exec spGetLoanRepayDetailAudit '" & LD_ID & "','" & frmMain.lblCode.Text & "'"
-        Dim count As Integer = getData("select COUNT(LD_ID) from BK_LoanSchedule where LD_ID='" & LD_ID & "' and SH_BrId='" & frmMain.lblCode.Text & "'")
-        Dim dscmd As New SqlDataAdapter(sql, g_cnn)
-        Dim ds As New DataSet()
-        dscmd.Fill(ds)
-        With excelWorksheet
-            .Range("A8:A" & count + 4).EntireRow.Insert()
-            For i = 0 To ds.Tables(0).Rows.Count - 1
-                For j = 0 To ds.Tables(0).Columns.Count - 1
-                    data = ds.Tables(0).Rows(i).ItemArray(j).ToString()
+            Dim count As Integer = getData("select COUNT(LD_ID) from BK_LoanSchedule where LD_ID='" & LD_ID & "' and SH_BrId='" & frmMain.lblCode.Text & "'")
+            Dim dscmd As New SqlDataAdapter(sql, g_cnn)
+            Dim ds As New DataSet()
+            dscmd.Fill(ds)
+            With excelWorksheet
+                .Range("A8:A" & count + 4).EntireRow.Insert()
+                For i = 0 To ds.Tables(0).Rows.Count - 1
+                    For j = 0 To ds.Tables(0).Columns.Count - 1
+                        data = ds.Tables(0).Rows(i).ItemArray(j).ToString()
                         .Cells(i + 7, j + 2) = data
                         .Cells(i + 7, 1) = i + 1
+                    Next
                 Next
-            Next
                 Dim oDt As New System.Data.DataTable
                 Dim Str As String = "select top 1 a.LD_ID,a.CM_ID,b.CM_KhName,c.VL_ID+','+CN_ID+','+DT_ID+','+PV_ID [Address],a.LD_Unit,a.LD_Type,convert(nvarchar(12),a.LD_Dis_Date,101)Dis_Date,LD_Term,LD_Dis_Amt,LD_IntRate,CU_ID from BK_Loan a left join BK_Customer b on a.CM_ID=b.CM_ID and a.CM_ID1=b.ID and a.LD_BrId=b.CM_BrId left join BK_Location c on b.LO_ID=c.LO_ID and b.CM_BrId=LO_BrID left join BK_Employee d on a.EM_ID=d.EM_ID and a.LD_BrId=d.EM_BrID where LD_ID='" & LD_ID & "' and LD_BrId='" & frmMain.lblCode.Text & "'"
                 oDt.Clear()
-            oDa = New SqlDataAdapter(Str, g_cnn)
-            oDa.Fill(oDt)
-            .Range("B2").Value = oDt.Rows(0).Item(0).ToString
-            .Range("B3").Value = oDt.Rows(0).Item(1).ToString
-            .Range("B4").Value = oDt.Rows(0).Item(2).ToString
-            .Range("B5").Value = oDt.Rows(0).Item(3).ToString
-            .Range("I2").Value = oDt.Rows(0).Item(4).ToString
-            .Range("I3").Value = oDt.Rows(0).Item(5).ToString
-            .Range("I4").Value = oDt.Rows(0).Item(6).ToString
-            .Range("M2").Value = oDt.Rows(0).Item(7).ToString
-            .Range("M3").Value = oDt.Rows(0).Item(8).ToString
-            .Range("M4").Value = oDt.Rows(0).Item(9).ToString
-            .Range("M5").Value = oDt.Rows(0).Item(10).ToString
+                oDa = New SqlDataAdapter(Str, g_cnn)
+                oDa.Fill(oDt)
+                .Range("B2").Value = oDt.Rows(0).Item(0).ToString
+                .Range("B3").Value = oDt.Rows(0).Item(1).ToString
+                .Range("B4").Value = oDt.Rows(0).Item(2).ToString
+                .Range("B5").Value = oDt.Rows(0).Item(3).ToString
+                .Range("I2").Value = oDt.Rows(0).Item(4).ToString
+                .Range("I3").Value = oDt.Rows(0).Item(5).ToString
+                .Range("I4").Value = oDt.Rows(0).Item(6).ToString
+                .Range("M2").Value = oDt.Rows(0).Item(7).ToString
+                .Range("M3").Value = oDt.Rows(0).Item(8).ToString
+                .Range("M4").Value = oDt.Rows(0).Item(9).ToString
+                .Range("M5").Value = oDt.Rows(0).Item(10).ToString
             End With
         Catch ex As Exception
             MessageBox.Show(ex.ToString, "IT Solution", MessageBoxButtons.OK, MessageBoxIcon.Error)

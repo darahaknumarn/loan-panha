@@ -538,7 +538,7 @@ Public Class frmDisburshment
                 resultError = frmMessageError.ShowBoxError("ឥណទានមិនទាន់រក្សាទុកផងបោះទៅតារាងម្តេចហ្នឹងកើត សូមពិនិត្យឡើងវិញ។", "មិនទាន់រក្សាទុក")
                 Return
             Else
-                Me.toExcel1(Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value, Me.DataGridView1.CurrentCell.RowIndex)
+                Me.toExcel(Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value, Me.DataGridView1.CurrentCell.RowIndex)
             End If
         ElseIf e.KeyCode = Keys.Delete Then
             Dim a As Integer = Me.DataGridView1.Rows.Count()
