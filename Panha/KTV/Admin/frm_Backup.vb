@@ -31,9 +31,12 @@ Public Class frm_Backup
                 Dim days As Integer = DateTime.Now.Day
                 'Dim times As time
                 'Dim cmd As String = "BACKUP DATABASE " & cbDatabseDatabase.Text.ToUpper & " TO  DISK = N'" & txtdestination.Text & "' WITH NOFORMAT, INIT,  NAME = N'" & cbDatabseDatabase.Text.ToUpper & "-Full Database Backup', SKIP, NOREWIND, NOUNLOAD,  STATS = 10"
+                If Not System.IO.Directory.Exists(appPath & "\BackUp") Then
+                    System.IO.Directory.CreateDirectory(appPath & "\BackUp")
+                End If
                 Dim cmd As String = "BACKUP DATABASE " & DB & " TO  DISK = N'" & appPath & "\BackUp\" & frmMain.lblCode.Text & " " & DB & Year(DateTime.Now) & "" & Month(DateTime.Now) & "" & days & " " & Hour(DateTime.Now) & "" & Minute(DateTime.Now) & ".bak' WITH NOFORMAT, INIT,  NAME = N'" & DB & "-Full Database Backup', SKIP, NOREWIND, NOUNLOAD,  STATS = 10"
-                dbcmd = New SqlCommand(cmd, g_cnn)
                 dbcon.Open()
+                dbcmd = New SqlCommand(cmd, dbcon)
                 dbcmd.ExecuteNonQuery()
                 dbcon.Close()
                 MsgBox("Backup completed successfully!", MsgBoxStyle.Information)
@@ -41,7 +44,7 @@ Public Class frm_Backup
                 Label1.Visible = False
                 Me.Close()
             Catch ex As Exception
-                MsgBox("For Server only, contact IT for more detail!", MsgBoxStyle.Information, "IT Solution")
+                MsgBox(ex.Message, MsgBoxStyle.Critical, "Backup Error")
                 ProgressBar1.Visible = False
                 Label1.Visible = False
             End Try
