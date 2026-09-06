@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|f:\\loan-panha\\rity\\rithy\\rithy\\ktv\\admin\\frm_restore.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frm_restore.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|f:\\loan-panha\\rity\\rithy\\rithy\\ktv\\admin\\frmreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dara\\.copilot\\plans\\plan-dynamic-loan-service-fee-(sh-service)-migration.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|f:\\loan-panha\\rity\\rithy\\rithy\\ktv\\admin\\frm_restore.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frm_restore.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frm_backup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frm_backup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|f:\\loan-panha\\rity\\rithy\\rithy\\ktv\\admin\\frmdisburshment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmdisburshment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frmdisburshment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmdisburshment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frmrepayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmrepayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\applogger.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\applogger.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frm_backup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frm_backup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\frmemployee.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\frmemployee.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\my project\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\my project\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\frmfirst.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\frmfirst.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\clsencrypted.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\clsencrypted.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\frmfirst.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\frmfirst.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frmmessageerror.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmmessageerror.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frmsignin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmsignin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frmexport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmexport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frmexport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmexport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\testreport.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\testreport.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\it.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\it.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\admin\\frmexport.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\admin\\frmexport.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|F:\\loan-panha\\Rity\\Rithy\\Rithy\\ktv\\my project\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DBC7B48-F285-49AA-86C6-CCF2CE4AA7FE}|KTV\\Morokot.vbproj|solutionrelative:ktv\\my project\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "plan-dynamic-loan-service-fee-(sh-service)-migration.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\dara\\.copilot\\plans\\plan-dynamic-loan-service-fee-(sh-service)-migration.md",
+              "ToolTip": "C:\\Users\\dara\\.copilot\\plans\\plan-dynamic-loan-service-fee-(sh-service)-migration.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-01T10:27:56.091Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReport.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmReport.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmReport.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmReport.vb",
+              "RelativeToolTip": "KTV\\Admin\\frmReport.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-01T10:19:03.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Restore.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frm_Restore.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frm_Restore.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frm_Restore.vb",
+              "RelativeToolTip": "KTV\\Admin\\frm_Restore.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-01T10:15:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Restore.vb [Design]",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frm_Restore.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frm_Restore.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frm_Restore.vb [Design]",
+              "RelativeToolTip": "KTV\\Admin\\frm_Restore.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-01T10:15:56.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDisburshment.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmDisburshment.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmDisburshment.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmDisburshment.vb",
+              "RelativeToolTip": "KTV\\Admin\\frmDisburshment.vb",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAowB4BAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-19T03:46:09.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmRepayment.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmRepayment.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmRepayment.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmRepayment.vb",
+              "RelativeToolTip": "KTV\\Admin\\frmRepayment.vb",
+              "ViewState": "AgIAAM4CAAAAAAAAAAAQwL4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-19T03:14:30.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppLogger.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\AppLogger.vb",
+              "RelativeDocumentMoniker": "KTV\\AppLogger.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\AppLogger.vb",
+              "RelativeToolTip": "KTV\\AppLogger.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T08:22:41.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_Backup.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frm_Backup.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frm_Backup.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frm_Backup.vb",
+              "RelativeToolTip": "KTV\\Admin\\frm_Backup.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T07:12:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDisburshment.vb [Design]",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmDisburshment.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmDisburshment.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmDisburshment.vb [Design]*",
+              "RelativeToolTip": "KTV\\Admin\\frmDisburshment.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-19T03:46:02.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmEmployee.Designer.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\frmEmployee.Designer.vb",
+              "RelativeDocumentMoniker": "KTV\\frmEmployee.Designer.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\frmEmployee.Designer.vb",
+              "RelativeToolTip": "KTV\\frmEmployee.Designer.vb",
+              "ViewState": "AgIAADIBAAAAAAAAAAAwwEMBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T07:14:14.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_Backup.vb [Design]",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frm_Backup.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frm_Backup.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frm_Backup.vb [Design]",
+              "RelativeToolTip": "KTV\\Admin\\frm_Backup.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T07:12:18.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\My Project\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "KTV\\My Project\\ApplicationEvents.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\My Project\\ApplicationEvents.vb",
+              "RelativeToolTip": "KTV\\My Project\\ApplicationEvents.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAMwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T08:19:47.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmFirst.Designer.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\frmFirst.Designer.vb",
+              "RelativeDocumentMoniker": "KTV\\frmFirst.Designer.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\frmFirst.Designer.vb",
+              "RelativeToolTip": "KTV\\frmFirst.Designer.vb",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAewJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T07:14:28.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\Form1.Designer.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\Form1.Designer.vb",
+              "RelativeToolTip": "KTV\\Admin\\Form1.Designer.vb",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwJMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T07:15:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmFirst.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\frmFirst.vb",
+              "RelativeDocumentMoniker": "KTV\\frmFirst.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\frmFirst.vb",
+              "RelativeToolTip": "KTV\\frmFirst.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T07:45:55.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClsEncrypted.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\ClsEncrypted.vb",
+              "RelativeDocumentMoniker": "KTV\\ClsEncrypted.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\ClsEncrypted.vb",
+              "RelativeToolTip": "KTV\\ClsEncrypted.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T08:07:10.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmsignin.Designer.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmsignin.Designer.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmsignin.Designer.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmsignin.Designer.vb",
+              "RelativeToolTip": "KTV\\Admin\\frmsignin.Designer.vb",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAwwPsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T07:14:18.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMessageError.Designer.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmMessageError.Designer.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmMessageError.Designer.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmMessageError.Designer.vb",
+              "RelativeToolTip": "KTV\\Admin\\frmMessageError.Designer.vb",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T07:14:26.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestReport.Designer.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\TestReport.Designer.vb",
+              "RelativeDocumentMoniker": "KTV\\TestReport.Designer.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\TestReport.Designer.vb",
+              "RelativeToolTip": "KTV\\TestReport.Designer.vb",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAgwAgBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T04:10:37.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IT.Designer.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\IT.Designer.vb",
+              "RelativeDocumentMoniker": "KTV\\IT.Designer.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\IT.Designer.vb",
+              "RelativeToolTip": "KTV\\IT.Designer.vb",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAQwBUBAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T04:10:33.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmExport.Designer.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmExport.Designer.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmExport.Designer.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmExport.Designer.vb",
+              "RelativeToolTip": "KTV\\Admin\\frmExport.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T03:24:02.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmExport.vb",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmExport.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmExport.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmExport.vb",
+              "RelativeToolTip": "KTV\\Admin\\frmExport.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T03:24:01.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmExport.vb [Design]",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmExport.vb",
+              "RelativeDocumentMoniker": "KTV\\Admin\\frmExport.vb",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\Admin\\frmExport.vb [Design]",
+              "RelativeToolTip": "KTV\\Admin\\frmExport.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-17T03:24:00.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\My Project\\Resources.resx",
+              "RelativeDocumentMoniker": "KTV\\My Project\\Resources.resx",
+              "ToolTip": "F:\\loan-panha\\Rity\\Rithy\\Rithy\\KTV\\My Project\\Resources.resx",
+              "RelativeToolTip": "KTV\\My Project\\Resources.resx",
+              "ViewState": "AgIAAC4BAAAAAAAAAAApwD4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-17T03:17:23.376Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

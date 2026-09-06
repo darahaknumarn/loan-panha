@@ -1,0 +1,32 @@
+﻿Public Class ClsEncrypted
+    ' Minimal stub to satisfy references to ClsEncrypted in the project.
+    Public Sub New()
+    End Sub
+
+    ' Example methods commonly used for encryption utilities. These are no-op stubs
+    ' Replace with real implementation or reference the Encrypted.dll for production.
+    Public Function EncryptString(value As String) As String
+        If value Is Nothing Then Return Nothing
+        Return Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(value))
+    End Function
+
+    Public Function DecryptString(value As String) As String
+        If String.IsNullOrEmpty(value) Then Return value
+        Try
+            Dim bytes = Convert.FromBase64String(value)
+            Return System.Text.Encoding.UTF8.GetString(bytes)
+        Catch
+            Return value
+        End Try
+    End Function
+
+    Public Function EncryptBytes(data() As Byte) As Byte()
+        If data Is Nothing Then Return Nothing
+        Return data
+    End Function
+
+    Public Function DecryptBytes(data() As Byte) As Byte()
+        If data Is Nothing Then Return Nothing
+        Return data
+    End Function
+End Class

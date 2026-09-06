@@ -1,0 +1,93 @@
+﻿USE [loan]
+GO
+/****** Object:  StoredProcedure [dbo].[sp_repay1]    Script Date: 8/19/2026 11:36:41 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER PROCEDURE [dbo].[sp_repay1](
+@LD_ID Varchar(12),
+@BrID Varchar(12),@SH_Date date,@LR_ID int)
+AS
+BEGIN
+SET NOCOUNT ON;
+Declare @Payoff as Nvarchar(50);
+Declare @Repay as Nvarchar(100);
+Declare @KHR as NVarchar(12);
+Declare @USD as NVarchar(12);
+	Set @Payoff =N'បង់ផ្ដាច់';
+	Set @Repay =N'យកប្រាក់ពីអតិថិជន';
+	Set @KHR=N'រៀល';
+    Set @USD=N'ដុល្លារ'; 
+	IF @BrID = 'All' set @BrID ='%';
+--------------------------------------------- Get Loan Active
+select top 1 * into #Active from BK_Loan where LD_ID=@LD_ID and LD_BrId=@BrID
+----------------------------------------------------------------------------- sum LR_Amt
+select sum(isnull(LR_Amount,0))LR_Amt ,LD_ID,LR_BrID,SH_Date 
+into #a
+from BK_LoanRepay
+where LD_ID=@LD_ID and LR_BrID=@BrID and SH_Date=@SH_Date and LR_ID<@LR_ID
+group by LD_ID,LR_BrID,SH_Date
+--select * from #a return
+--------------------------------------------------------------------------- Get SH_Service
+select sum(isnull(SH_Service,0))Sum_Service,sum(isnull(SH_Int_Amt,0))Sum_Int,LD_ID,SH_BrId
+into #service
+from BK_LoanSchedule 
+where LD_ID=@LD_ID and SH_Date>@SH_Date 
+group by LD_ID, SH_BrId
+--select Sum_Int,Sum_Service from #service
+--------------------------------------------------------------------------
+-- Compute dynamic service per loan using BK_ServiceRule via dbo.ufn_GetLoanService
+-- Uses loan disbursement amount and loan unit from #Active. Adjust column names if your BK_Loan uses different names (e.g., LD_Amount).
+DECLARE @LoanAmt DECIMAL(18,2) = 0;
+DECLARE @LoanUnit NVARCHAR(20) = NULL;
+DECLARE @ComputedSH_Service DECIMAL(18,2) = 0;
+
+-- Try to read typical column names (update if your BK_Loan has different column names)
+IF EXISTS (SELECT 1 FROM tempdb.sys.columns WHERE [object_id] = OBJECT_ID('tempdb..#Active') AND name = 'LD_Amt')
+    SELECT TOP 1 @LoanAmt = ISNULL(LD_Amt, 0) FROM #Active;
+ELSE IF EXISTS (SELECT 1 FROM tempdb.sys.columns WHERE [object_id] = OBJECT_ID('tempdb..#Active') AND name = 'LD_Amount')
+    SELECT TOP 1 @LoanAmt = ISNULL(LD_Amount, 0) FROM #Active;
+ELSE
+    SELECT TOP 1 @LoanAmt = 0 FROM #Active; -- fallback
+
+IF EXISTS (SELECT 1 FROM tempdb.sys.columns WHERE [object_id] = OBJECT_ID('tempdb..#Active') AND name = 'LD_Unit')
+    SELECT TOP 1 @LoanUnit = ISNULL(LD_Unit, '') FROM #Active;
+ELSE
+    SELECT TOP 1 @LoanUnit = '' FROM #Active;
+
+IF OBJECT_ID('dbo.ufn_GetLoanService', 'FN') IS NOT NULL
+    SET @ComputedSH_Service = dbo.ufn_GetLoanService(@LoanAmt, @LoanUnit, @BrID);
+ELSE
+    SET @ComputedSH_Service = 0;
+
+---------------------------------------------------------------------------
+select a.SH_Date
+,(SH_Prn_Amt+SH_Int_Amt+ISNULL(@ComputedSH_Service,0))-ISNULL(c.LR_Amt,0) SH_Total
+, SH_PayoffAmt  PayOff
+, Case when ISNULL(c.LR_Amt,0)>=a.SH_Prn_Amt then a.SH_Balance else (a.SH_Balance+a.SH_Prn_Amt) - ISNULL(c.LR_Amt,0) end PrnPayoff 
+, ISNULL(Sum_Int,0)+SH_Int_Amt  IntTotal
+,Case when ISNULL(c.LR_Amt,0)>=a.SH_Prn_Amt then 0 else a.SH_Prn_Amt-ISNULL(c.LR_Amt,0) end prn
+,Case when ISNULL(c.LR_Amt,0)<=a.SH_Prn_Amt then a.SH_Int_Amt
+when ISNULL(c.LR_Amt,0)>a.SH_Prn_Amt and ISNULL(c.LR_Amt,0)<=a.SH_Prn_Amt+a.SH_Int_Amt
+then  (SH_Prn_Amt+SH_Int_Amt)-ISNULL(c.LR_Amt,0)
+else 0 end [int]
+,
+case 
+when ISNULL(c.LR_Amt,0) <= SH_Prn_Amt+SH_Int_Amt then ISNULL(@ComputedSH_Service,0) 
+when ISNULL(c.LR_Amt,0)>SH_Prn_Amt+SH_Int_Amt and ISNULL(c.LR_Amt,0)<SH_Prn_Amt+SH_Int_Amt+ISNULL(@ComputedSH_Service,0)
+then (SH_Prn_Amt+SH_Int_Amt+@ComputedSH_Service)-LR_Amt
+else 0 end LD_Service
+,@ComputedSH_Service+ISNULL(Sum_Service,0) Service_Payoff
+from BK_LoanSchedule  a 
+left join #Active b on a.LD_ID=b.LD_ID and a.SH_BrId=b.LD_BrId
+left join #a c on a.LD_ID=c.LD_ID and a.SH_BrId=c.LR_BrID and a.SH_Date=c.SH_Date
+left join #service d on a.LD_ID=d.LD_ID and a.SH_BrId=d.SH_BrId
+where a.SH_Date=@SH_Date and a.LD_ID =@LD_ID and a.SH_BrId=@BrID
+END
+----------------------------------------------------------------------------
+
+
+
+

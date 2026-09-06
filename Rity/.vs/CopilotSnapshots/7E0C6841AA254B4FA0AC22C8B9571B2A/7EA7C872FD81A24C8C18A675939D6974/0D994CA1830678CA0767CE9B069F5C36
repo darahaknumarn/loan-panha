@@ -1,0 +1,34 @@
+﻿Namespace Microsoft.VisualBasic.PowerPacks
+    Public Enum BackStyle
+        Transparent = 0
+        Opaque = 1
+    End Enum
+
+    Public Class Shape
+        Inherits System.Windows.Forms.Control
+        Public Sub New()
+            MyBase.New()
+        End Sub
+
+        Public Property BorderColor As System.Drawing.Color
+        Public Property BorderWidth As Integer
+        Public Property CornerRadius As Integer
+        Public Property BackStyle As BackStyle
+    End Class
+
+    Public Class RectangleShape
+        Inherits Shape
+        Public Sub New()
+            MyBase.New()
+        End Sub
+    End Class
+
+    Public Class ShapeContainer
+        Inherits System.Windows.Forms.Control
+        Public Property Shapes As Shape()
+        Public Sub New()
+            MyBase.New()
+            Shapes = New Shape() {}
+        End Sub
+    End Class
+End Namespace

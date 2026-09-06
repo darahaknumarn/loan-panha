@@ -1,0 +1,74 @@
+﻿Public Class frmFirst
+
+    Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+        'Dim a As Integer = RectangleShape2.Width
+        RectangleShape2.Width += 5
+        If RectangleShape2.Width = 515 Then
+            Timer1.Stop()
+            frmsignin.Show()
+            Me.Close()
+
+        End If
+        'MessageBox.Show(RectangleShape2.Width.ToString)
+    End Sub
+End Class
+
+' PowerPacks stubs to satisfy designer references when PowerPacks assembly is not available
+Namespace Global.Microsoft.VisualBasic.PowerPacks
+    Public Enum BackStyle
+        Transparent = 0
+        Opaque = 1
+    End Enum
+
+    Public Class Shape
+        Inherits System.Windows.Forms.Control
+        Public Sub New()
+            MyBase.New()
+        End Sub
+
+        Public Property BorderColor As System.Drawing.Color
+        Public Property BorderWidth As Integer
+        Public Property CornerRadius As Integer
+        Public Property BackStyle As BackStyle
+        Public Property FillColor As System.Drawing.Color
+    End Class
+
+    Public Class RectangleShape
+        Inherits Shape
+        Public Sub New()
+            MyBase.New()
+        End Sub
+    End Class
+
+    Public Class ShapeCollection
+        Private ReadOnly list As New System.Collections.Generic.List(Of Shape)()
+        Public Sub New()
+        End Sub
+        Public Sub AddRange(items As Shape())
+            If items Is Nothing Then Return
+            For Each s In items
+                list.Add(s)
+            Next
+        End Sub
+        Default Public Property Item(index As Integer) As Shape
+            Get
+                Return list(index)
+            End Get
+            Set(value As Shape)
+                list(index) = value
+            End Set
+        End Property
+        Public Function ToArray() As Shape()
+            Return list.ToArray()
+        End Function
+    End Class
+
+    Public Class ShapeContainer
+        Inherits System.Windows.Forms.Control
+        Public Property Shapes As ShapeCollection
+        Public Sub New()
+            MyBase.New()
+            Shapes = New ShapeCollection()
+        End Sub
+    End Class
+End Namespace

@@ -1,0 +1,66 @@
+﻿Imports System.IO
+Imports System.Threading
+
+Namespace My
+
+    ' Handles application-level events. Created to log unhandled exceptions to a file.
+    Partial Friend Class MyApplication
+
+        Private Sub MyApplication_Startup(ByVal sender As Object, ByVal e As Microsoft.VisualBasic.ApplicationServices.StartupEventArgs) Handles Me.Startup
+            ' Wire up handlers for UI and non-UI thread exceptions
+            AddHandler Application.ThreadException, AddressOf Application_ThreadException
+            AddHandler AppDomain.CurrentDomain.UnhandledException, AddressOf CurrentDomain_UnhandledException
+        End Sub
+
+        Private Sub Application_ThreadException(ByVal sender As Object, ByVal e As Threading.ThreadExceptionEventArgs)
+            Try
+                WriteExceptionLog(e.Exception)
+            Catch
+            End Try
+
+            Try
+                Admin.frmMessageError.ShowBoxError(e.Exception.Message, "Error")
+            Catch
+            End Try
+        End Sub
+
+        Private Sub CurrentDomain_UnhandledException(ByVal sender As Object, ByVal e As UnhandledExceptionEventArgs)
+            Try
+                Dim ex As Exception = TryCast(e.ExceptionObject, Exception)
+                If ex IsNot Nothing Then
+                    WriteExceptionLog(ex)
+
+                    Try
+                        Admin.frmMessageError.ShowBoxError(ex.Message, "Unhandled Error")
+                    Catch
+                    End Try
+                Else
+                    WriteExceptionLog(New Exception("Unhandled exception (non-Exception object)"))
+                End If
+            Catch
+            End Try
+        End Sub
+
+        Private Sub WriteExceptionLog(ByVal ex As Exception)
+            Try
+                Dim logDir As String = path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Morokot", "Logs")
+                Directory.CreateDirectory(logDir)
+                Dim logFile As String = path.Combine(logDir, DateTime.Now.ToString("yyyy-MM-dd") & ".log")
+
+                Using sw As New StreamWriter(logFile, True)
+                    sw.WriteLine("--------------------------------------------------")
+                    sw.WriteLine(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"))
+                    If ex IsNot Nothing Then
+                        sw.WriteLine(ex.ToString())
+                    Else
+                        sw.WriteLine("Exception object was null")
+                    End If
+                    sw.WriteLine()
+                End Using
+            Catch
+                ' Best effort logging only; swallow exceptions to avoid recursive failures
+            End Try
+        End Sub
+
+    End Class
+End Namespace
