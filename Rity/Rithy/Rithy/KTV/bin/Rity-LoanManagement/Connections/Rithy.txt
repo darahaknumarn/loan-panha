@@ -1,1 +1,0 @@
-.\SQLEXPRESS-loan-sa-123456
