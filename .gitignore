@@ -4,3 +4,7 @@
 
 /Rity/Rithy/Rithy/.vs
 /Rity/Rithy/Rithy/KTV/.vs
+
+# SQL Server backups and app backup/export folders (too large for GitHub)
+*.bak
+**/bin/Debug/BackUp/
