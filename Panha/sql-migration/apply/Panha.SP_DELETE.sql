@@ -1,0 +1,131 @@
+ALTER PROCEDURE [dbo].[SP_DELETE]
+AS
+BEGIN
+BEGIN TRANSACTION
+BEGIN TRY
+----------------------------------------DELETE EXISTING RECORD BEFORE INSERT------------------------------------------
+	DECLARE @ID NVARCHAR(50)
+	DECLARE @BrID VARCHAR(50)
+	DECLARE @SH_Date DateTime
+--Location
+	DECLARE Curr CURSOR FOR
+	SELECT LO_ID,LO_BrID FROM TempPanha.dbo.BK_Location WHERE NOT LO_Date_Modify IS NULL
+	OPEN Curr
+	FETCH NEXT FROM Curr
+	INTO @ID,@BrID
+	WHILE @@FETCH_STATUS = 0
+	BEGIN
+	  DELETE FROM Panha.dbo.BK_Location WHERE LO_ID=@ID AND LO_BrID=@BrID
+	  FETCH NEXT FROM Curr
+	    INTO @ID,@BrID
+	END
+	CLOSE Curr
+	DEALLOCATE Curr
+--Customer
+	DECLARE Curr CURSOR FOR
+	SELECT CM_ID,CM_BrId FROM TempPanha.dbo.BK_Customer WHERE NOT CM_Date_Modify IS NULL
+	OPEN Curr
+	FETCH NEXT FROM Curr
+	INTO @ID,@BrID
+	WHILE @@FETCH_STATUS = 0
+	BEGIN
+	  DELETE FROM Panha.dbo.BK_Customer WHERE CM_ID=@ID AND CM_BrId=@BrID
+	  FETCH NEXT FROM Curr
+	    INTO @ID,@BrID
+	END
+	CLOSE Curr
+	DEALLOCATE Curr
+--Position
+	DECLARE Curr CURSOR FOR
+	SELECT ID,BrID FROM TempPanha.dbo.BK_Position WHERE NOT Date_Modify IS NULL
+	OPEN Curr
+	FETCH NEXT FROM Curr
+	INTO @ID,@BrID
+	WHILE @@FETCH_STATUS = 0
+	BEGIN
+	  DELETE FROM Panha.dbo.BK_Position WHERE ID=@ID AND BrID=@BrID
+	  FETCH NEXT FROM Curr
+	    INTO @ID,@BrID
+	END
+	CLOSE Curr
+	DEALLOCATE Curr
+--Employee
+	DECLARE Curr CURSOR FOR
+	SELECT EM_ID,EM_BrID FROM TempPanha.dbo.BK_Employee WHERE NOT Date_Modify IS NULL
+	OPEN Curr
+	FETCH NEXT FROM Curr
+	INTO @ID,@BrID
+	WHILE @@FETCH_STATUS = 0
+	BEGIN
+	  DELETE FROM Panha.dbo.BK_Employee WHERE EM_ID=@ID AND EM_BrID=@BrID
+	  FETCH NEXT FROM Curr
+	    INTO @ID,@BrID
+	END
+	CLOSE Curr
+	DEALLOCATE Curr
+--Loan
+	DECLARE Curr CURSOR FOR
+	SELECT LD_ID,LD_BrId FROM TempPanha.dbo.BK_Loan WHERE NOT LD_Date_Modify IS NULL
+	OPEN Curr
+	FETCH NEXT FROM Curr
+	INTO @ID,@BrID
+	WHILE @@FETCH_STATUS = 0
+	BEGIN
+	  DELETE FROM Panha.dbo.BK_Loan WHERE LD_ID=@ID AND LD_BrId=@BrID
+	  FETCH NEXT FROM Curr
+	    INTO @ID,@BrID
+	END
+	CLOSE Curr
+	DEALLOCATE Curr
+--Loan Repay
+	DECLARE Curr CURSOR FOR
+	SELECT LD_ID,LR_BrID,SH_Date FROM TempPanha.dbo.BK_LoanRepay WHERE NOT LR_Date_Modify IS NULL
+	OPEN Curr
+	FETCH NEXT FROM Curr
+	INTO @ID,@BrID,@SH_Date
+	WHILE @@FETCH_STATUS = 0
+	BEGIN
+	  DELETE FROM Panha.dbo.BK_LoanRepay WHERE LD_ID=@ID AND LR_BrID=@BrID AND SH_Date = @SH_Date
+	  FETCH NEXT FROM Curr
+	    INTO @ID,@BrID,@SH_Date
+	END
+	CLOSE Curr
+	DEALLOCATE Curr
+--Loan Schedule
+	DECLARE Curr CURSOR FOR
+	SELECT LD_ID,SH_BrId,SH_Date FROM TempPanha.dbo.BK_LoanSchedule WHERE NOT Date_Modify IS NULL
+	OPEN Curr
+	FETCH NEXT FROM Curr
+	INTO @ID,@BrID,@SH_Date
+	WHILE @@FETCH_STATUS = 0
+	BEGIN
+	  DELETE FROM Panha.dbo.BK_LoanSchedule WHERE LD_ID=@ID AND SH_BrId=@BrID AND SH_Date = @SH_Date
+	  FETCH NEXT FROM Curr
+	    INTO @ID,@BrID,@SH_Date
+	END
+	CLOSE Curr
+	DEALLOCATE Curr
+-----------------------------------------------------------
+END TRY
+BEGIN CATCH
+IF @@TRANCOUNT > 0
+	ROLLBACK TRANSACTION;
+	DECLARE @errmsg NVARCHAR(4000);
+	DECLARE @errseverity INT;
+	DECLARE @errstate INT;
+	SELECT @errmsg = ERROR_MESSAGE(), @errseverity = ERROR_SEVERITY(), @errstate = ERROR_STATE();
+	RAISERROR(@errmsg, @errseverity, @errstate);
+	PRINT '';
+	PRINT '??????????DELETE ERROR | DELETE ERROR | DELETE ERROR | DELETE ERROR??????????';
+	PRINT '';
+END CATCH;
+
+IF @@TRANCOUNT > 0
+    COMMIT TRANSACTION;
+END
+
+
+
+
+
+

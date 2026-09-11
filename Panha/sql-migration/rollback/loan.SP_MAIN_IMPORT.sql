@@ -1,0 +1,14 @@
+
+
+
+CREATE PROCEDURE [dbo].[SP_MAIN_IMPORT]
+AS
+BEGIN
+EXEC [dbo].[SP_DELETE1];
+EXEC [dbo].[SP_IMPORT];
+EXEC [dbo].[SP_DELETE2];
+END
+
+
+
+

@@ -27,12 +27,12 @@ Public Class frm_Backup
                 'End If
                 '--------End Validate--------------------
                 Dim appPath As String = Application.StartupPath()
-                dbcon = New SqlConnection("Data Source=.;Integrated Security=SSPI;Initial Catalog=master")
+                dbcon = New SqlConnection(MasterCnnString())
                 Dim days As Integer = DateTime.Now.Day
                 'Dim times As time
                 'Dim cmd As String = "BACKUP DATABASE " & cbDatabseDatabase.Text.ToUpper & " TO  DISK = N'" & txtdestination.Text & "' WITH NOFORMAT, INIT,  NAME = N'" & cbDatabseDatabase.Text.ToUpper & "-Full Database Backup', SKIP, NOREWIND, NOUNLOAD,  STATS = 10"
-                Dim cmd As String = "BACKUP DATABASE " & DB & " TO  DISK = N'" & appPath & "\BackUp\" & frmMain.lblCode.Text & " " & DB & Year(DateTime.Now) & "" & Month(DateTime.Now) & "" & days & " " & Hour(DateTime.Now) & "" & Minute(DateTime.Now) & ".bak' WITH NOFORMAT, INIT,  NAME = N'" & DB & "-Full Database Backup', SKIP, NOREWIND, NOUNLOAD,  STATS = 10"
-                dbcmd = New SqlCommand(cmd, g_cnn)
+                Dim cmd As String = BuildBackupSql(DB, appPath & "\BackUp\" & frmMain.lblCode.Text & " " & DB & Year(DateTime.Now) & "" & Month(DateTime.Now) & "" & days & " " & Hour(DateTime.Now) & "" & Minute(DateTime.Now) & ".bak")
+                dbcmd = New SqlCommand(cmd, dbcon)
                 dbcon.Open()
                 dbcmd.ExecuteNonQuery()
                 dbcon.Close()

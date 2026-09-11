@@ -29,6 +29,7 @@ Partial Class frmImport
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.lblStatus = New System.Windows.Forms.Label()
         Me.Panel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -91,11 +92,24 @@ Partial Class frmImport
         Me.Panel1.Size = New System.Drawing.Size(1761, 125)
         Me.Panel1.TabIndex = 5
         '
+        'lblStatus
+        '
+        Me.lblStatus.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.lblStatus.AutoSize = True
+        Me.lblStatus.Font = New System.Drawing.Font("Times New Roman", 14.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblStatus.ForeColor = System.Drawing.Color.Navy
+        Me.lblStatus.Location = New System.Drawing.Point(621, 285)
+        Me.lblStatus.Name = "lblStatus"
+        Me.lblStatus.Size = New System.Drawing.Size(0, 32)
+        Me.lblStatus.TabIndex = 6
+        Me.lblStatus.Visible = False
+        '
         'frmImport
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1761, 712)
+        Me.Controls.Add(Me.lblStatus)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
@@ -116,4 +130,5 @@ Partial Class frmImport
     Friend WithEvents OpenFileDialog1 As System.Windows.Forms.OpenFileDialog
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Panel1 As System.Windows.Forms.Panel
+    Friend WithEvents lblStatus As System.Windows.Forms.Label
 End Class

@@ -418,6 +418,7 @@
     </Compile>
     <Compile Include="Admin\ktvmode.vb" />
     <Compile Include="Admin\Mod_qbPayroll.vb" />
+    <Compile Include="Admin\DbOps.vb" />
     <Compile Include="Admin\moremode.vb" />
     <Compile Include="Admin\frmMain.Designer.vb">
       <DependentUpon>frmMain.vb</DependentUpon>
@@ -442,11 +443,6 @@
     </Compile>
     <Compile Include="frmResultReport.vb">
       <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="IT.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>IT.xsd</DependentUpon>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -474,11 +470,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
-    <Compile Include="TestReport.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>TestReport.xsd</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -655,17 +646,6 @@
     <None Include="ClassDiagram1.cd" />
     <None Include="ClassDiagram2.cd" />
     <None Include="ClassDiagram3.cd" />
-    <None Include="IT.xsc">
-      <DependentUpon>IT.xsd</DependentUpon>
-    </None>
-    <None Include="IT.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>IT.Designer.vb</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="IT.xss">
-      <DependentUpon>IT.xsd</DependentUpon>
-    </None>
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
@@ -675,17 +655,6 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
-    </None>
-    <None Include="TestReport.xsc">
-      <DependentUpon>TestReport.xsd</DependentUpon>
-    </None>
-    <None Include="TestReport.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>TestReport.Designer.vb</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="TestReport.xss">
-      <DependentUpon>TestReport.xsd</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>

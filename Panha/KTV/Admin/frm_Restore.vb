@@ -15,7 +15,7 @@ Public Class frm_Restore
         If ProgressBar1.Value = 100 Then
             Timer1.Stop()
             Try
-                dbcon = New SqlConnection("Data Source=.;Integrated Security=SSPI;Initial Catalog=master")
+                dbcon = New SqlConnection(MasterCnnString())
                 Dim CMD As String = "USE master" & _
                                     vbCrLf & "Alter Database " & cbDatabseDatabase.Text.ToUpper & " Set SINGLE_USER with Rollback Immediate" & _
                                     vbCrLf & "RESTORE DATABASE " & cbDatabseDatabase.Text.ToUpper & " FROM  DISK = N'" & txtdestination.Text & "' WITH  FILE = 1,  NOUNLOAD,  REPLACE,  STATS = 10" & _

@@ -2076,3 +2076,76 @@ D:\Project\ProJectOld\Panha\KTV\obj\Debug\morokot.frmlogin.resources
 D:\Project\ProJectOld\Panha\KTV\obj\Debug\morokot.myPOSSplash.resources
 D:\Project\ProJectOld\Panha\KTV\obj\Debug\morokot.Resources.resources
 D:\Project\ProJectOld\Panha\KTV\obj\Debug\Morokot.vbproj.GenerateResource.Cache
+F:\loan-panha\Panha\KTV\obj\Debug\Interop.SpeechLib.dll
+F:\loan-panha\Panha\KTV\obj\Debug\Morokot.vbproj.ResolveComReference.cache
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.AboutmyPOS.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.FCustomer.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.MyMessageBox.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmSpecialRepay.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmAsset.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmAssetType.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmBank.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmChangeCustomer.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmChangeLocation.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmChangePassword.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmChangeStaff.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmCompany.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.FrmCustomer.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmCustomerHistory.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmDelegate.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmDisburshment.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmExchange.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmExpense.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmExport.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmHoliday.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmImport.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmIT.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmLocation.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmMaintenance.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmMessageError.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmOtherDeposit.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmOtherDepositPayOff.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmOtherIncome.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmOwner.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmPosition.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmPrivileges.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmRepayment.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmReport.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmSetup.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmsignin.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.FrmStaff.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmStationary.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmStationaryIn.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmStationaryOut.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmSType.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmUpdatePrice.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmUsers.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmWiteOff.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frm_Backup.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.Frm_Connection.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frm_Restore.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.GetSheetNames.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmEmployee.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmFirst.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmResultReport.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmMain.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.frmlogin.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.myPOSSplash.resources
+F:\loan-panha\Panha\KTV\obj\Debug\morokot.Resources.resources
+F:\loan-panha\Panha\KTV\obj\Debug\Morokot.vbproj.GenerateResource.cache
+F:\loan-panha\Panha\KTV\obj\Debug\Loan Management.exe
+F:\loan-panha\Panha\KTV\obj\Debug\Loan Management.xml
+F:\loan-panha\Panha\KTV\obj\Debug\Loan Management.pdb
+F:\loan-panha\Panha\KTV\bin\Debug\Admin\frmPosition.resx
+F:\loan-panha\Panha\KTV\bin\Debug\Admin\frmSetup.resx
+F:\loan-panha\Panha\KTV\bin\Debug\Admin\frmPosition.Designer.vb
+F:\loan-panha\Panha\KTV\bin\Debug\Admin\frmPosition.vb
+F:\loan-panha\Panha\KTV\bin\Debug\Admin\frmSetup.Designer.vb
+F:\loan-panha\Panha\KTV\bin\Debug\Admin\frmSetup.vb
+F:\loan-panha\Panha\KTV\bin\Debug\Loan Management.exe.config
+F:\loan-panha\Panha\KTV\bin\Debug\Loan Management.exe
+F:\loan-panha\Panha\KTV\bin\Debug\Loan Management.pdb
+F:\loan-panha\Panha\KTV\bin\Debug\Loan Management.xml
+F:\loan-panha\Panha\KTV\obj\Debug\Morokot.vbproj.AssemblyReference.cache
+F:\loan-panha\Panha\KTV\obj\Debug\Morokot.vbproj.CoreCompileInputs.cache
+F:\loan-panha\Panha\KTV\obj\Debug\Morokot.vbproj.Up2Date

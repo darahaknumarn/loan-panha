@@ -8,3 +8,10 @@
 # SQL Server backups and app backup/export folders (too large for GitHub)
 *.bak
 **/bin/Debug/BackUp/
+
+# Claude Code local settings (personal, not shared)
+Panha/.claude/settings.local.json
+
+# Test project restore/build output
+Panha/KTV.Tests/obj/
+Panha/KTV.Tests/bin/

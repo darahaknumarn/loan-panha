@@ -25,6 +25,8 @@ Module moremode
     Friend DS As New DataSet("KTVSet")
     Public ds1 As New DataSet
     Public server As String = ""
+    Public dbUser As String = ""
+    Public dbPwd As String = ""
     Public Sub ResetPassword(ByVal EmployeeID As String)
         Try
             Dim strCmd As String
@@ -184,14 +186,36 @@ Module moremode
         Catch ex As System.Exception
         End Try
     End Sub
+    'Builds a connection string for the profile the user signed in with.
+    'Pass a catalog to target a different database on the same server
+    '(BACKUP/RESTORE need "master"). Leave it blank for the signed-in database.
+    Public Function CnnString(Optional ByVal Catalog As String = "") As String
+        If Catalog = "" Then Catalog = DB
+        Return "SERVER=" & server & ";Database=" & Catalog & ";User ID=" & dbUser & ";Pwd=" & dbPwd
+    End Function
+    'Staging database a branch EXPORTS from. SP_EXPORT writes into it and names it
+    '"Temp" + the signed-in database (loan -> TempLoan, Panha -> TempPanha).
+    Public Function ExportStagingDB() As String
+        Return "Temp" & DB
+    End Function
+    'Staging database head office IMPORTS into. The stored procedures were renamed off
+    'the old generic "TempData", so SP_IMPORT now reads the same per-client name that
+    'SP_EXPORT writes - both sides of the transfer agree on one database.
+    Public Function ImportStagingDB() As String
+        Return ExportStagingDB()
+    End Function
+    'Connection string against master, for BACKUP / RESTORE / ALTER DATABASE.
+    Public Function MasterCnnString() As String
+        Return CnnString("master")
+    End Function
     Public Function ChkCnn(ByVal ServerName As String, ByVal Database As String, ByVal User As String, ByVal Pwd As String) As Boolean
         DB = Database
-        Dim str As String
-        str = "SERVER=" & ServerName & ";Database=" & Database & ";User ID=" & User & ";Pwd=" & Pwd
+        server = ServerName
+        dbUser = User
+        dbPwd = Pwd
         Try
-            g_cnn = New SqlConnection(str)
+            g_cnn = New SqlConnection(CnnString())
             g_cnn.Open()
-            server = ServerName.ToString
             Return True
         Catch ex As System.Exception
             MsgBox("Cannot connect to server " & ex.Message)

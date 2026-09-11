@@ -26,12 +26,13 @@ Public Class frmExport
             Dim appPath As String = Application.StartupPath()
             Dim dbcmd As SqlCommand
             Dim dbcon As SqlConnection
-            dbcon = New SqlConnection("Data Source=.;Integrated Security=SSPI;Initial Catalog=master")
+            dbcon = New SqlConnection(MasterCnnString())
             Dim days As Integer = DateTime.Now.Day
             'Dim times As time
             'Dim cmd As String = "BACKUP DATABASE " & cbDatabseDatabase.Text.ToUpper & " TO  DISK = N'" & txtdestination.Text & "' WITH NOFORMAT, INIT,  NAME = N'" & cbDatabseDatabase.Text.ToUpper & "-Full Database Backup', SKIP, NOREWIND, NOUNLOAD,  STATS = 10"
             Dim days1 As Integer = DateTimePicker1.Value.Day
-            Dim cmd As String = "Use TempPanha BACKUP DATABASE TempPanha TO  DISK = N'" & appPath & "\Export\Export " & frmMain.lblCode.Text & " " & Year(DateTimePicker1.Value) & "-" & Month(DateTimePicker1.Value) & "-" & days1 & ".bak' WITH NOFORMAT, INIT,  NAME = N'TempPanha-Full Database Backup', SKIP, NOREWIND, NOUNLOAD,  STATS = 10"
+            Dim stagingDB As String = ExportStagingDB()
+            Dim cmd As String = BuildExportSql(stagingDB, appPath & "\Export\Export " & frmMain.lblCode.Text & " " & Year(DateTimePicker1.Value) & "-" & Month(DateTimePicker1.Value) & "-" & days1 & ".bak")
             dbcmd = New SqlCommand(cmd, dbcon)
             dbcon.Open()
             dbcmd.ExecuteNonQuery()
