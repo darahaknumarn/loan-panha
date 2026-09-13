@@ -89,6 +89,41 @@ Public Class DbOpsTests
         DbOps.GuardStagingTarget("TempData", "Panha")
     End Sub
 
+    ' ---------- export file guard ----------
+
+    'The Backup screen and the Export screen both write .bak files into the same
+    'folder. Importing a Backup file restored branch 001's entire database into
+    'staging, and the import then tried to merge years of rows into head office.
+    <TestMethod()>
+    <ExpectedException(GetType(InvalidOperationException))>
+    Public Sub Import_refuses_a_backup_of_the_live_database()
+        DbOps.GuardExportBackup("Panha", "TempPanha")
+    End Sub
+
+    <TestMethod()>
+    <ExpectedException(GetType(InvalidOperationException))>
+    Public Sub Import_refuses_an_export_from_another_installation()
+        DbOps.GuardExportBackup("TempLoan", "TempPanha")
+    End Sub
+
+    <TestMethod()>
+    <ExpectedException(GetType(InvalidOperationException))>
+    Public Sub Import_refuses_a_backup_whose_header_could_not_be_read()
+        DbOps.GuardExportBackup("", "TempPanha")
+    End Sub
+
+    <TestMethod()>
+    Public Sub Import_allows_the_export_from_this_installation()
+        DbOps.GuardExportBackup("TempPanha", "TempPanha")
+    End Sub
+
+    'Database names are not case sensitive on the server, and sys.databases spells
+    'this one "Temppanha" while the app builds "Temp" & DB.
+    <TestMethod()>
+    Public Sub Import_allows_the_export_whatever_the_casing()
+        DbOps.GuardExportBackup("Temppanha", "TempPanha")
+    End Sub
+
     ' ---------- MOVE: the reason imports failed on a different machine ----------
 
     <TestMethod()>

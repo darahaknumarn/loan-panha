@@ -87,6 +87,9 @@ Public Class frmImport
         GuardStagingTarget(stagingDb, DB)
         Using dbcon As New SqlConnection(MasterCnnString())
             dbcon.Open()
+            'Before the restore, not after: a full backup of a branch's live database
+            'restores into staging without complaint and only shows up as a wrong import.
+            GuardExportBackup(ReadBackupDatabaseName(dbcon, TextBox1.Text), stagingDb)
             Dim files = ReadBackupFileList(dbcon, TextBox1.Text)
             Dim dataDir As String = InstanceDataDir(dbcon)
             Dim CMD As String = BuildRestoreSql(stagingDb, TextBox1.Text, files, dataDir)

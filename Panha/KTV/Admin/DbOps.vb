@@ -53,6 +53,31 @@ Module DbOps
         End If
     End Sub
 
+    'An import file is a backup of the branch's staging database, written by the Export
+    'screen. A backup of the branch's live database - what the Backup screen writes -
+    'carries the same .bak extension and restores just as happily, but it holds the
+    'branch's whole history instead of one day's changes, so importing it merges years
+    'of rows into head office. The backup header records which database it was taken
+    'from, and that tells the two apart exactly: "TempPanha" is an export, "Panha" is a
+    'full backup that does not belong on this screen.
+    Public Sub GuardExportBackup(ByVal backupDbName As String, ByVal stagingDb As String)
+        If String.IsNullOrEmpty(backupDbName) Then
+            Throw New InvalidOperationException(
+                "Could not read the source database from the backup file.")
+        End If
+        If Not backupDbName.StartsWith("Temp", StringComparison.OrdinalIgnoreCase) Then
+            Throw New InvalidOperationException(
+                "This is a backup of the live database '" & backupDbName & "', not an export file." & vbCrLf &
+                "Import expects the file the Export screen writes (Export <branch> <date>.bak)," & vbCrLf &
+                "which is a backup of the branch's '" & stagingDb & "' staging database.")
+        End If
+        If Not String.Equals(backupDbName, stagingDb, StringComparison.OrdinalIgnoreCase) Then
+            Throw New InvalidOperationException(
+                "This export came from '" & backupDbName & "'; this installation imports '" &
+                stagingDb & "'." & vbCrLf & "The file belongs to a different system.")
+        End If
+    End Sub
+
     'Redirects every file in the backup into dataDir, named after the target
     'database. Without this a restore writes to the paths recorded in the backup,
     'which are the client's own drive letters and will not exist here.
@@ -143,6 +168,17 @@ Module DbOps
             End Using
         End Using
         Return result
+    End Function
+
+    'The database a backup was taken from, as recorded in its header.
+    Public Function ReadBackupDatabaseName(ByVal cnn As SqlConnection, ByVal bakPath As String) As String
+        Using cmd As New SqlCommand("RESTORE HEADERONLY FROM DISK = N'" & SqlEscape(bakPath) & "'", cnn)
+            cmd.CommandTimeout = 0
+            Using rd As SqlDataReader = cmd.ExecuteReader()
+                If Not rd.Read() Then Return ""
+                Return Convert.ToString(rd("DatabaseName"))
+            End Using
+        End Using
     End Function
 
     'Where this instance puts new database files.
