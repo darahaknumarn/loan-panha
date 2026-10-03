@@ -11,6 +11,12 @@
 *.bak
 **/bin/Debug/BackUp/
 
+# Build output and project image resources. Files already committed stay
+# tracked (the build depends on DLLs in bin/Debug and images in Resources);
+# this only hides new untracked files. Use `git add -f` to add a new dependency.
+**/bin/Debug/
+**/Resources/
+
 # Claude Code local settings (personal, not shared)
 Panha/.claude/settings.local.json
 
