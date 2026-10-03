@@ -2,8 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Rity/Rithy/Rithy/.vs
-/Rity/Rithy/Rithy/KTV/.vs
+# Visual Studio user state (any project folder)
+**/.vs/
+*.suo
+*.user
 
 # SQL Server backups and app backup/export folders (too large for GitHub)
 *.bak
