@@ -145,6 +145,7 @@ Public Class FrmCustomer
                     Else
                         Dim ID As String = getData("Select CM_ID from BK_Customer where CM_ID='" & Me.DataGridView1.Rows(iRow).Cells(1).Value & "' and CM_BrId='" & frmMain.lblCode.Text & "'")
                         If ID = "" Then
+                            If BlockIfWrittenOffPerson(Me.DataGridView1.Rows(iRow).Cells(2).Value.ToString, Me.DataGridView1.Rows(iRow).Cells(4).Value.ToString) Then Return
                             addCustomer(Me.DataGridView1.Rows(iRow).Cells(1).Value, Me.DataGridView1.Rows(iRow).Cells(2).Value, Me.DataGridView1.Rows(iRow).Cells(4).Value, Me.DataGridView1.Rows(iRow).Cells(3).Value, frmMain.lblCode.Text, 1, frmMain.users.ToString, DateTime.Now())
                             getLastCM_ID()
                             getLastLO_ID()
@@ -231,6 +232,38 @@ Public Class FrmCustomer
         End If
     End Sub
     '----------------------------------------------- Function and Method
+    '---------------------------------------------------------------- write-off block
+    'A new customer with the same name and the same village/commune/district/province
+    'as a customer who had a loan written off is refused, so the person cannot be
+    'registered under a fresh code to get a new loan. Returns True when blocked.
+    Private Function BlockIfWrittenOffPerson(ByVal khName As String, ByVal loId As String) As Boolean
+        If khName Is Nothing OrElse khName.Trim = "" OrElse loId Is Nothing OrElse loId.Trim = "" Then Return False
+        Dim records As New List(Of WriteoffGuard.WriteoffRecord)
+        Try
+            Dim oDt As New System.Data.DataTable
+            Dim oDa As New SqlClient.SqlDataAdapter(WriteoffGuard.BuildHistoryByPersonSql(khName, loId, frmMain.lblCode.Text), g_cnn)
+            oDa.Fill(oDt)
+            For Each r As DataRow In oDt.Rows
+                Dim rec As New WriteoffGuard.WriteoffRecord
+                rec.CustomerId = r("CM_ID").ToString
+                rec.LoanId = r("LD_ID").ToString
+                If Not IsDBNull(r("WOF_Date")) Then rec.WriteoffDate = CDate(r("WOF_Date"))
+                If Not IsDBNull(r("LD_OS")) Then rec.Amount = CDbl(r("LD_OS"))
+                If Not IsDBNull(r("CU_ID")) Then rec.Currency = CInt(r("CU_ID"))
+                records.Add(rec)
+            Next
+            oDa.Dispose()
+            oDt.Dispose()
+        Catch ex As Exception
+            MessageBox.Show(ex.ToString, "Need IT Now", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return True   'cannot verify the history, so do not create the customer
+        End Try
+        Dim msg As String = WriteoffGuard.BuildDuplicateMessage(khName, records)
+        If msg = "" Then Return False
+        resultError = frmMessageError.ShowBoxError(msg, WriteoffGuard.Title)
+        Return True
+    End Function
+
     Public Sub AddTrace_Customer(ByVal RecordAction As String, ByVal ID As Integer)
         Dim CM_KhName, CM_Address, CM_Phone, CM_BrId, CM_User_Create, CM_User_Modify, CM_User_Delete, Status As String
         Dim CM_ID, LO_ID, LD_Cycle, ID1 As Integer

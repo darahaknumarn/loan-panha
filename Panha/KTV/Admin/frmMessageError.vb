@@ -19,6 +19,7 @@ Public Class frmMessageError
     Public Shared Function ShowBoxError(ByVal txtMessage As String) As String
         newMessageBoxError = New frmMessageError()
         newMessageBoxError.lblMessage.Text = txtMessage
+        newMessageBoxError.FitToMessage()
         newMessageBoxError.ShowDialog()
         Return Button_id
     End Function
@@ -27,9 +28,37 @@ Public Class frmMessageError
         newMessageBoxError = New frmMessageError()
         newMessageBoxError.lblTitle.Text = txtTitle
         newMessageBoxError.lblMessage.Text = txtMessage
+        newMessageBoxError.FitToMessage()
         newMessageBoxError.ShowDialog()
         Return Button_id
     End Function
+
+    'The form is a fixed 322x181 box designed for two or three lines. Longer
+    'messages (for example the write-off block, one line per loan) were cut off
+    'under the close button. Measure the text and grow the label, the button
+    'position and the form to fit; short messages keep the original size.
+    Private Sub FitToMessage()
+        Const MaxWidth As Integer = 560
+        Dim width As Integer = lblMessage.Width
+        Dim needed As Size = TextRenderer.MeasureText(lblMessage.Text, lblMessage.Font,
+            New Size(width, Integer.MaxValue), TextFormatFlags.WordBreak)
+        'Widen first when a single line is too long for the designed width.
+        If needed.Height > lblMessage.Height Then
+            width = Math.Min(MaxWidth, Math.Max(width, needed.Width + 8))
+            needed = TextRenderer.MeasureText(lblMessage.Text, lblMessage.Font,
+                New Size(width, Integer.MaxValue), TextFormatFlags.WordBreak)
+        End If
+        Dim extraW As Integer = Math.Max(0, width - lblMessage.Width)
+        Dim extraH As Integer = Math.Max(0, needed.Height + 8 - lblMessage.Height)
+        If extraW = 0 AndAlso extraH = 0 Then Return
+        lblMessage.Size = New Size(lblMessage.Width + extraW, lblMessage.Height + extraH)
+        pictureBox1.Width += extraW
+        btnCancel.Location = New Point(btnCancel.Left + extraW \ 2, btnCancel.Top + extraH)
+        lblTimer.Top += extraH
+        Me.ClientSize = New Size(Me.ClientSize.Width + extraW, Me.ClientSize.Height + extraH)
+        ShapeContainer1.Size = Me.ClientSize
+        RectangleShape1.Size = New Size(RectangleShape1.Width + extraW, RectangleShape1.Height + extraH)
+    End Sub
 
     Private Sub MyMessageBox_Paint(ByVal sender As Object, ByVal e As PaintEventArgs)
         Dim mGraphics As Graphics = e.Graphics

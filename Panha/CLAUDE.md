@@ -62,6 +62,8 @@ the build works because copies are committed in `KTV/bin/Debug/`. Don't delete t
 - `KTV.Tests/DbOpsTests.vb` — 21 pure unit tests over `DbOps`, no database touched.
 - `KTV.Tests/FactoryScheduleTests.vb` — 18 pure unit tests over `FactorySchedule`, including the
   customer's worked example (1,000,000 KHR at 2%/month disbursed 3 Nov).
+- `KTV.Tests/WriteoffGuardTests.vb` — pure unit tests over `WriteoffGuard` (SQL text and the Khmer
+  block message).
 - `KTV.Tests/BackupRestoreIntegrationTests.vb` — end-to-end against a real SQL Server, restoring the
   client's sample `.bak` into a scratch database `TempData_Test` that is dropped afterwards. Overridable
   via `KTV_TEST_SQL` / `KTV_TEST_BAK` env vars; calls `Assert.Inconclusive` and skips when the server or
@@ -105,6 +107,16 @@ through module-level helpers, all sharing `g_cnn`:
   first payment date is filled in automatically. Covered by `KTV.Tests/FactoryScheduleTests.vb`.
   Summary report procs that bucket by `LD_Unit` (`SPgetActiveLoan`, `sp_75/76_rpt*`) do not know this
   unit yet.
+- `KTV/Admin/WriteoffGuard.vb` — hard block on disbursing to a customer with a written-off loan
+  (Notion task "Warning on write-off customer"). A write-off is only a `Writeoff` row keyed by loan;
+  `BK_Loan.LD_Status` / `IsWriteoff` are never changed, so the history is found by joining `Writeoff` to
+  the customer's loans in the branch (`BuildHistorySql`), and also to any other customer code in the
+  branch with the same name (spaces ignored) and the same village/commune/district/province, so a
+  person re-registered under a new code is still caught. `frmDisburshment.BlockIfWrittenOff` runs it
+  when the customer code is entered and again on F12 save; `FrmCustomer.BlockIfWrittenOffPerson` runs
+  `BuildHistoryByPersonSql` before a new customer is inserted. Both show the Khmer message listing each
+  loan id, the code it was under, written-off amount (`Writeoff.LD_OS`) and date. `frmMessageError`
+  grows to fit long messages (`FitToMessage`). Covered by `KTV.Tests/WriteoffGuardTests.vb`.
 - `KTV/Admin/DbOps.vb` — the one module written to be testable: pure SQL-building for the
   Backup / Restore / Import / Export screens, free of UI and global state. `SqlEscape`, `QuoteDbName`,
   `GuardStagingTarget`, `BuildBackupSql`, `BuildRestoreSql`, `BuildMoveClauses`, `BuildExportSql`,

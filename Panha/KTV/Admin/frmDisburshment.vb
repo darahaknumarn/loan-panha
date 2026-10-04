@@ -60,6 +60,9 @@ Public Class frmDisburshment
                 ElseIf DataGridView1.CurrentCell.ColumnIndex = Me.DataGridView1.Rows(iRow).Cells("coCM_ID").ColumnIndex Then
                     If DataGridView1.CurrentCell.Value.ToString = "" Then
                         Return
+                    ElseIf BlockIfWrittenOff(DataGridView1.CurrentCell.Value.ToString) Then
+                        Me.DataGridView1.CurrentCell.Value = ""
+                        Return
                     Else
                         Dim status As String = getData("select LD_Status from BK_Loan where LD_ID=(select top 1 LD_ID from BK_Loan where CM_ID='" & DataGridView1.CurrentCell.Value.ToString & "' and LD_BrId='" & frmMain.lblCode.Text & "' order by LD_Date_Create desc) and CM_ID='" & DataGridView1.CurrentCell.Value.ToString & "' and LD_BrId='" & frmMain.lblCode.Text & "'")
                         If status = "Active" Then
@@ -347,6 +350,8 @@ Public Class frmDisburshment
                 If a = 1 Then
                     resultError = frmMessageError.ShowBoxError("ការបញ្ចូលទិន្នន័យខុសមិនអាចរក្សាទុកបានទេ សូមពិនិត្យឡើងវិញ។", "ការបញ្ចូលទិន្នន័យខុស")
                     Return
+                ElseIf BlockIfWrittenOff(Me.DataGridView1.Rows(iRow).Cells("coCM_ID").Value.ToString) Then
+                    Return
                 Else
                     '---------------------------------------------------------------- SH_Service
                     Dim SH_Service As Double
@@ -618,6 +623,37 @@ Public Class frmDisburshment
 
     End Sub
     '------------------------------------------------------------ Function and Method
+    '---------------------------------------------------------------- write-off block
+    'Hard block: a customer with any written-off loan in this branch gets no new loan.
+    'Shows the Khmer message (loan id, amount, date) and returns True when blocked.
+    Private Function BlockIfWrittenOff(ByVal CM_ID As String) As Boolean
+        If CM_ID Is Nothing OrElse CM_ID.Trim = "" Then Return False
+        Dim records As New List(Of WriteoffGuard.WriteoffRecord)
+        Try
+            Dim oDt As New System.Data.DataTable
+            Dim oDa As New SqlDataAdapter(WriteoffGuard.BuildHistorySql(CM_ID, frmMain.lblCode.Text), g_cnn)
+            oDa.Fill(oDt)
+            For Each r As DataRow In oDt.Rows
+                Dim rec As New WriteoffGuard.WriteoffRecord
+                rec.CustomerId = r("CM_ID").ToString
+                rec.LoanId = r("LD_ID").ToString
+                If Not IsDBNull(r("WOF_Date")) Then rec.WriteoffDate = CDate(r("WOF_Date"))
+                If Not IsDBNull(r("LD_OS")) Then rec.Amount = CDbl(r("LD_OS"))
+                If Not IsDBNull(r("CU_ID")) Then rec.Currency = CInt(r("CU_ID"))
+                records.Add(rec)
+            Next
+            oDa.Dispose()
+            oDt.Dispose()
+        Catch ex As Exception
+            MessageBox.Show(ex.ToString, "Need IT Now", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return True   'cannot verify the history, so do not disburse
+        End Try
+        Dim msg As String = WriteoffGuard.BuildMessage(records)
+        If msg = "" Then Return False
+        resultError = frmMessageError.ShowBoxError(msg, WriteoffGuard.Title)
+        Return True
+    End Function
+
     '---------------------------------------------------------------- factory loans (unit "រោងចក្រ")
     Private Function IsFactoryLoan(ByVal iRow As Integer) As Boolean
         Dim u = Me.DataGridView1.Rows(iRow).Cells("coUnit").Value

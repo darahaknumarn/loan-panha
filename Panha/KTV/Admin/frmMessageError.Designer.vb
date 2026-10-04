@@ -35,8 +35,8 @@ Partial Class frmMessageError
         '
         'lblMessage
         '
-        Me.lblMessage.Font = New System.Drawing.Font("Khmer OS", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblMessage.ForeColor = System.Drawing.Color.White
+        Me.lblMessage.Font = New System.Drawing.Font("Khmer OS Battambang", 11.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblMessage.ForeColor = System.Drawing.Color.FromArgb(CType(CType(40, Byte), Integer), CType(CType(40, Byte), Integer), CType(CType(40, Byte), Integer))
         Me.lblMessage.Location = New System.Drawing.Point(4, 58)
         Me.lblMessage.Name = "lblMessage"
         Me.lblMessage.Size = New System.Drawing.Size(301, 74)
@@ -52,8 +52,10 @@ Partial Class frmMessageError
         '
         'btnCancel
         '
+        Me.btnCancel.BackColor = System.Drawing.Color.FromArgb(CType(CType(198, Byte), Integer), CType(CType(40, Byte), Integer), CType(CType(40, Byte), Integer))
+        Me.btnCancel.FlatAppearance.BorderSize = 0
         Me.btnCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnCancel.Font = New System.Drawing.Font("Khmer OS", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnCancel.Font = New System.Drawing.Font("Khmer OS Battambang", 11.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnCancel.ForeColor = System.Drawing.Color.White
         Me.btnCancel.Location = New System.Drawing.Point(116, 140)
         Me.btnCancel.Name = "btnCancel"
@@ -61,11 +63,11 @@ Partial Class frmMessageError
         Me.btnCancel.TabIndex = 11
         Me.btnCancel.Text = "បិទ"
         Me.btnCancel.TextAlign = System.Drawing.ContentAlignment.TopCenter
-        Me.btnCancel.UseVisualStyleBackColor = True
+        Me.btnCancel.UseVisualStyleBackColor = False
         '
         'pictureBox1
         '
-        Me.pictureBox1.BackgroundImage = CType(resources.GetObject("pictureBox1.BackgroundImage"), System.Drawing.Image)
+        Me.pictureBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(198, Byte), Integer), CType(CType(40, Byte), Integer), CType(CType(40, Byte), Integer))
         Me.pictureBox1.Controls.Add(Me.lblTitle)
         Me.pictureBox1.Location = New System.Drawing.Point(3, 2)
         Me.pictureBox1.Name = "pictureBox1"
@@ -76,7 +78,7 @@ Partial Class frmMessageError
         '
         Me.lblTitle.AutoSize = True
         Me.lblTitle.BackColor = System.Drawing.Color.Transparent
-        Me.lblTitle.Font = New System.Drawing.Font("Khmer OS", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblTitle.Font = New System.Drawing.Font("Khmer OS Battambang", 11.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblTitle.ForeColor = System.Drawing.Color.White
         Me.lblTitle.Location = New System.Drawing.Point(4, 6)
         Me.lblTitle.Name = "lblTitle"
@@ -95,7 +97,7 @@ Partial Class frmMessageError
         '
         'RectangleShape1
         '
-        Me.RectangleShape1.BorderColor = System.Drawing.Color.Lime
+        Me.RectangleShape1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(198, Byte), Integer), CType(CType(40, Byte), Integer), CType(CType(40, Byte), Integer))
         Me.RectangleShape1.BorderWidth = 3
         Me.RectangleShape1.Location = New System.Drawing.Point(1, 0)
         Me.RectangleShape1.Name = "RectangleShape1"
@@ -106,7 +108,7 @@ Partial Class frmMessageError
         Me.AcceptButton = Me.btnCancel
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.OrangeRed
+        Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(253, Byte), Integer), CType(CType(246, Byte), Integer), CType(CType(246, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(322, 181)
         Me.ControlBox = False
         Me.Controls.Add(Me.lblMessage)

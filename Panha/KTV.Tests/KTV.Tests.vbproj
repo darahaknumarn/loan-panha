@@ -16,7 +16,9 @@
   <ItemGroup>
     <Compile Include="..\KTV\Admin\DbOps.vb" Link="DbOps.vb" />
     <Compile Include="..\KTV\Admin\FactorySchedule.vb" Link="FactorySchedule.vb" />
+    <Compile Include="..\KTV\Admin\WriteoffGuard.vb" Link="WriteoffGuard.vb" />
     <Compile Include="FactoryScheduleTests.vb" />
+    <Compile Include="WriteoffGuardTests.vb" />
     <Compile Include="DbOpsTests.vb" />
     <Compile Include="BackupRestoreIntegrationTests.vb" />
   </ItemGroup>
