@@ -1,4 +1,4 @@
-# CLAUDE.md
+﻿# CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -30,7 +30,7 @@ Build outputs (`bin/`, `obj/`) and `.suo` files are committed, so builds dirty t
 ## Build, run, test
 
 ```bash
-"C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/MSBuild.exe" KTV/Morokot.vbproj -p:Configuration=Debug
+"C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/MSBuild.exe" KTV/Morokot.vbproj -p:Configuration=Debug
 ```
 
 **Close the running app (and stop VS debugging) first** — otherwise compilation succeeds but the copy of
@@ -59,8 +59,9 @@ the build works because copies are committed in `KTV/bin/Debug/`. Don't delete t
 
 ### Test layout
 
-- `KTV.Tests/DbOpsTests.vb` — 21 pure unit tests over `DbOps`, no database touched. This is the only
-  code in the repo with real test coverage.
+- `KTV.Tests/DbOpsTests.vb` — 21 pure unit tests over `DbOps`, no database touched.
+- `KTV.Tests/FactoryScheduleTests.vb` — 18 pure unit tests over `FactorySchedule`, including the
+  customer's worked example (1,000,000 KHR at 2%/month disbursed 3 Nov).
 - `KTV.Tests/BackupRestoreIntegrationTests.vb` — end-to-end against a real SQL Server, restoring the
   client's sample `.bak` into a scratch database `TempData_Test` that is dropped afterwards. Overridable
   via `KTV_TEST_SQL` / `KTV_TEST_BAK` env vars; calls `Assert.Inconclusive` and skips when the server or
@@ -95,6 +96,15 @@ through module-level helpers, all sharing `g_cnn`:
 - `KTV/Admin/ktvmode.vb` — `getData(sql)` (scalar), `getDataUni(...)` (parameterized scalar),
   `addIn(sql)` (write), `getImage(sql)`, `AddToListView`, plus `Check_date` / `Check_date1` (advance a
   payment date past weekends and `BK_Holiday` rows).
+- `KTV/Admin/FactorySchedule.vb` — pure schedule arithmetic for factory-worker loans (loan unit
+  `រោងចក្រ`, `BK_LoanUnit.LU_ID = 5`, added by `sql-migration/APPLY-Panha-factory-unit.sql`): installments
+  on the 10th and 25th, first one at least 5 days after disbursement and pro-rated by days, later ones a
+  fixed half of the monthly rate (flat: on the disbursed amount, declining: on the outstanding balance);
+  a single closed day is collected the working day before, a run of two or more the working day after.
+  `frmDisburshment.CalculateLoanFactory` writes the rows; the officer enters the rate per month and the
+  first payment date is filled in automatically. Covered by `KTV.Tests/FactoryScheduleTests.vb`.
+  Summary report procs that bucket by `LD_Unit` (`SPgetActiveLoan`, `sp_75/76_rpt*`) do not know this
+  unit yet.
 - `KTV/Admin/DbOps.vb` — the one module written to be testable: pure SQL-building for the
   Backup / Restore / Import / Export screens, free of UI and global state. `SqlEscape`, `QuoteDbName`,
   `GuardStagingTarget`, `BuildBackupSql`, `BuildRestoreSql`, `BuildMoveClauses`, `BuildExportSql`,
@@ -119,6 +129,22 @@ half-renamed off a generic `Data` / `TempData` pair and pointed at databases tha
 - `apply/` is generated output, `APPLY-Panha.sql` / `APPLY-loan.sql` are the concatenated runnable
   scripts (applied 2026-09-11), `rollback/` holds the original proc bodies.
 - Apply manually via SSMS or `sqlcmd`; there is no migration runner.
+- `FIX-Panha-identity-columns.sql` (applied 2026-10-03 on the dev server): the dev `Panha` copy had lost
+  IDENTITY on `BK_LoanSchedule.SH_ID`, `BK_LoanRepay.LR_ID`, `BK_SavingRepay.SR_ID` and the `ID` of
+  `BK_Exchange` / `BK_OtherIncome` / `BK_ChangeCustomer`, so every app INSERT (which never supplies the
+  id) and every head-office import failed with "Cannot insert the value NULL into column 'SH_ID'". The
+  script rebuilds each table keeping all ids. The client databases (`pheap`, `TempPanha`) already have
+  identity; if a restored copy shows the error again, rerun the script.
+- `test-data/` holds the factory-schedule test loans 900001-900011 (status `Test`), the replay of the
+  F11 schedule export (`print_schedules.ps1`) and the cleanup script.
+- `README-pheap.md`, `CREATE-Temppheap.sql`, `CREATE-SYS_IMPORT_EXPORT.sql`, `APPLY-pheap.sql`,
+  `ROLLBACK-pheap.sql`, `APPLY-Panha-sp_repay1.sql` (applied 2026-10-03 on the dev server) bring the SoPheap
+  client's database `pheap` onto this codebase so the `SoPheap/` fork can be retired. `fix-insert-lists.py`
+  regenerates the INSERT column lists of SP_IMPORT / SP_EXPORT from the live schema - the hand-written ones
+  were stale and `SELECT *` into identity tables does not compile. The README lists what is still open
+  (`sp_rptProfit`, eight report procs missing from every database, the same import/export fixes for
+  `Panha`/`TempPanha`). Run every script with `sqlcmd -f 65001`: the files hold Khmer literals and
+  sqlcmd otherwise stores them garbled.
 
 ## Domain model
 

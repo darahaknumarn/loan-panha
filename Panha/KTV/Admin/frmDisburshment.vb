@@ -120,14 +120,14 @@ Public Class frmDisburshment
                     Try
                         Dim Unit As String = getData("select top 1 LU_Name from BK_LoanUnit where LU_ID=" & DataGridView1.CurrentCell.Value)
                         If Unit = "" Then
-                            resultError = frmMessageError.ShowBoxError("កូដ 1 ថ្ងៃ,កូដ 2 សំរាប់ សប្តាហ៍,កូដ 3 សំរាប់ 2 សប្តាហ៍ និង កូដ 4 សំរាប់ខែ។", "ការបញ្ចូលទិន្ន័យខុស")
+                            resultError = frmMessageError.ShowBoxError("កូដ 1 ថ្ងៃ,កូដ 2 សំរាប់ សប្តាហ៍,កូដ 3 សំរាប់ 2 សប្តាហ៍,កូដ 4 សំរាប់ខែ និង កូដ 5 សំរាប់រោងចក្រ (បង់ថ្ងៃទី10 និង 25)។", "ការបញ្ចូលទិន្ន័យខុស")
                             DataGridView1.Rows(iRow).Cells("coUnit").Value = ""
                         Else
                             DataGridView1.CurrentCell.Value = Unit.ToString
                             DataGridView1.CurrentCell = DataGridView1(Me.DataGridView1.Rows(iRow).Cells("coTerm").ColumnIndex, iRow)
                         End If
                     Catch ex As Exception
-                        resultError = frmMessageError.ShowBoxError("កូដ 1 ថ្ងៃ,កូដ 2 សំរាប់ សប្តាហ៍,កូដ 3 សំរាប់ 2 សប្តាហ៍ និង កូដ 4 សំរាប់ខែ។", "ការបញ្ចូលទិន្ន័យខុស")
+                        resultError = frmMessageError.ShowBoxError("កូដ 1 ថ្ងៃ,កូដ 2 សំរាប់ សប្តាហ៍,កូដ 3 សំរាប់ 2 សប្តាហ៍,កូដ 4 សំរាប់ខែ និង កូដ 5 សំរាប់រោងចក្រ (បង់ថ្ងៃទី10 និង 25)។", "ការបញ្ចូលទិន្ន័យខុស")
                         DataGridView1.Rows(iRow).Cells("coUnit").Value = ""
                     End Try
                 ElseIf DataGridView1.CurrentCell.ColumnIndex = Me.DataGridView1.Rows(iRow).Cells("coTerm").ColumnIndex Then
@@ -253,7 +253,15 @@ Public Class frmDisburshment
                             now = DateTime.Now.AddDays(a)
                             DataGridView1.Rows(iRow).Cells(iCol).Value = FormatDateTime(now, DateFormat.ShortDate)
                         End If
-                        DataGridView1.CurrentCell = DataGridView1(Me.DataGridView1.Rows(iRow).Cells("coDisDatePay").ColumnIndex, iRow)
+                        If IsFactoryLoan(iRow) Then
+                            'Factory loans always start on the next payday (10th / 25th); the user does not type it.
+                            SetFactoryFirstDate(iRow)
+                            DataGridView1.CurrentCell = DataGridView1(Me.DataGridView1.Rows(iRow).Cells("coPayOff").ColumnIndex, iRow)
+                            Me.DataGridView1.Rows(iRow).Cells("coPayOff").Value = 0
+                            Me.DataGridView1.Rows(iRow).Cells("coRef").Value = 0
+                        Else
+                            DataGridView1.CurrentCell = DataGridView1(Me.DataGridView1.Rows(iRow).Cells("coDisDatePay").ColumnIndex, iRow)
+                        End If
                     Catch ex As Exception
                         resultError = frmMessageError.ShowBoxError("ការបញ្ចូលថ្ងៃខ្ចីមិនត្រឹមត្រូវទេ សូមពិនិត្យឡើងវិញ។", "ការបញ្ចូលទិន្ន័យខុស")
                         DataGridView1.Rows(iRow).Cells("coDisDate").Value = ""
@@ -375,13 +383,38 @@ Public Class frmDisburshment
                     End If
                     Dim int As Double = DataGridView1.Rows(iRow).Cells("coIntRate").Value
                     Dim dis_amt As Double = DataGridView1.Rows(iRow).Cells("coLD_DisAmt").Value
+                    If IsFactoryLoan(iRow) Then SetFactoryFirstDate(iRow)
                     Dim first_Date As Date = DataGridView1.Rows(iRow).Cells("coDisDatePay").Value
                     Dim term As Integer = DataGridView1.Rows(iRow).Cells("coTerm").Value
                     Dim Cycle As Integer = Val(getData("select top 1 LD_Cycle from BK_Customer where CM_ID='" & Me.DataGridView1.Rows(iRow).Cells("coCM_ID").Value & "' and Status='Active' and CM_BrId='" & frmMain.lblCode.Text & "'"))
                     Dim CM_ID1 As Integer = Val(getData("select top 1 ID from BK_Customer where CM_ID='" & Me.DataGridView1.Rows(iRow).Cells("coCM_ID").Value & "' and Status='Active' and CM_BrId='" & frmMain.lblCode.Text & "'"))
                     Dim LD_Cycle As String = getData("select COUNT(LD_ID)LD_ID from BK_Loan where CM_ID1='" & CM_ID1 & "' and LD_BrId='" & frmMain.lblCode.Text & "' group by CM_ID1")
                     With Me.DataGridView1.Rows(iRow)
-                        If .Cells("coType").Value = "ថេរ" Then
+                        If .Cells("coUnit").Value = FactorySchedule.UnitName Then
+                            '----------- factory loan: installments on the 10th and 25th (flat or declining)
+                            CalculateLoanFactory(dis_amt, int, term, SH_Service)
+                            PayOff(Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value)
+                            '------------------------------------------------------ Get Data
+                            If LD_Cycle = "" Then
+                                Cycle = 1
+                            Else
+                                Cycle = Val(LD_Cycle) + 1
+                            End If
+                            '----------------------------------------------------- Add loan
+                            With Me.DataGridView1.Rows(iRow)
+                                If .Cells("coCurrency").Value.ToString() = "រៀល" Then
+                                    curr = 1
+                                Else
+                                    curr = 2
+                                End If
+                                addLoan(.Cells("coLD_ID").Value, frmMain.lblCode.Text, .Cells("coCM_ID").Value, .Cells("coDisDate").Value, .Cells("coDisDatePay").Value, .Cells("coDisDateEnd").Value, .Cells("coLD_DisAmt").Value, curr, int, int, Me.DataGridView1.Rows(iRow).Cells("coEM_ID").Value, .Cells("coUnit").Value.ToString(), .Cells("coType").Value.ToString(), term, "Active", 1, frmMain.users.ToString, DateTime.Now(), 0, 0, .Cells("coCharge_Rate").Value, .Cells("coCharge_Amt").Value, Cycle, .Cells("coInsurance").Value, .Cells("coInsuranceTotal").Value)
+                            End With
+                            FrmCustomer.AddTrace_Customer("UPDATE OLD", CM_ID1)
+                            addIn("Update BK_Customer set LD_Cycle='" & Cycle & "' where ID='" & CM_ID1 & "' and CM_BrId='" & frmMain.lblCode.Text & "'")
+                            FrmCustomer.AddTrace_Customer("UPDATE NEW", CM_ID1)
+                            showLoan()
+                            newRow()
+                        ElseIf .Cells("coType").Value = "ថេរ" Then
                             If .Cells("coUnit").Value = "សប្តាហ៍" Or .Cells("coUnit").Value = "ខែ" Then
                                 CalculateLoan2(dis_amt, int, term, first_Date, SH_Service)
                                 PayOff(Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value)
@@ -509,16 +542,22 @@ Public Class frmDisburshment
         ElseIf e.KeyCode = Keys.Escape Then
             Me.Close()
         ElseIf e.KeyCode = Keys.F11 Then
+            If Me.DataGridView1.CurrentCell Is Nothing Then
+                Return
+            End If
             Dim iRow = Me.DataGridView1.CurrentCell.RowIndex
-            If Me.DataGridView1.Rows(iRow).Cells("coDisDateEnd").Value Is Nothing Then
+            If Not isLoanSaved(Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value, Me.DataGridView1.Rows(iRow).Cells("coDisDateEnd").Value) Then
                 resultError = frmMessageError.ShowBoxError("ឥណទានមិនទាន់រក្សាទុកផងបោះទៅតារាងម្តេចហ្នឹងកើត សូមពិនិត្យឡើងវិញ។", "មិនទាន់រក្សាទុក")
                 Return
             Else
                 Me.toExcel(Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value, Me.DataGridView1.CurrentCell.RowIndex)
             End If
         ElseIf e.KeyCode = Keys.F10 Then
+            If Me.DataGridView1.CurrentCell Is Nothing Then
+                Return
+            End If
             Dim iRow = Me.DataGridView1.CurrentCell.RowIndex
-            If Me.DataGridView1.Rows(iRow).Cells("coDisDateEnd").Value Is Nothing Then
+            If Not isLoanSaved(Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value, Me.DataGridView1.Rows(iRow).Cells("coDisDateEnd").Value) Then
                 resultError = frmMessageError.ShowBoxError("ឥណទានមិនទាន់រក្សាទុកផងបោះទៅតារាងម្តេចហ្នឹងកើត សូមពិនិត្យឡើងវិញ។", "មិនទាន់រក្សាទុក")
                 Return
             Else
@@ -579,6 +618,50 @@ Public Class frmDisburshment
 
     End Sub
     '------------------------------------------------------------ Function and Method
+    '---------------------------------------------------------------- factory loans (unit "រោងចក្រ")
+    Private Function IsFactoryLoan(ByVal iRow As Integer) As Boolean
+        Dim u = Me.DataGridView1.Rows(iRow).Cells("coUnit").Value
+        Return u IsNot Nothing AndAlso u.ToString = FactorySchedule.UnitName
+    End Function
+    'BK_Holiday lookup handed to FactorySchedule (the module itself never touches the database).
+    Private Function IsHoliday(ByVal d As Date) As Boolean
+        Return getData("select StartDate from BK_Holiday where StartDate='" & d.ToString("yyyy-MM-dd") & "'") <> ""
+    End Function
+    'Fills coDisDatePay with the due date of the first installment: the next payday
+    'at least 5 days after disbursement, moved off weekends and holidays.
+    Private Sub SetFactoryFirstDate(ByVal iRow As Integer)
+        Dim disDate As Date = Me.DataGridView1.Rows(iRow).Cells("coDisDate").Value
+        Dim first As Date = FactorySchedule.AdjustForNonWorkingDays(FactorySchedule.FirstPayday(disDate), AddressOf IsHoliday)
+        Me.DataGridView1.Rows(iRow).Cells("coDisDatePay").Value = FormatDateTime(first, DateFormat.ShortDate)
+    End Sub
+    'interestRate is the rate per MONTH; each installment carries half of it
+    '(the first one is pro-rated from the disbursement date). See FactorySchedule.
+    Private Sub CalculateLoanFactory(ByVal Disbursh As Double, ByVal interestRate As Double, ByVal term As Integer, ByVal LD_Service As Double)
+        Dim iRow = Me.DataGridView1.CurrentCell.RowIndex
+        Dim LD_ID As Integer = DataGridView1.Rows(iRow).Cells("coLD_ID").Value.ToString
+        Dim CM_ID As Integer = DataGridView1.Rows(iRow).Cells("coCM_ID").Value.ToString
+        Dim disDate As Date = Me.DataGridView1.Rows(iRow).Cells("coDisDate").Value
+        Dim declining As Boolean = (Me.DataGridView1.Rows(iRow).Cells("coType").Value = "ចុះ")
+        Dim SH_Prn_Amt, SH_Int_Amt, SH_Ballance_Amt As Double
+        Dim rows = FactorySchedule.BuildSchedule(disDate, Disbursh, interestRate, term, declining, AddressOf IsHoliday)
+        For Each r In rows
+            '---------------------------------------------------------------- Round up if Riel
+            If Me.DataGridView1.Rows(iRow).Cells("coCurrency").Value = "រៀល" Then
+                SH_Prn_Amt = ReturnRound(r.Principal)
+                SH_Int_Amt = ReturnRound(r.Interest)
+                SH_Ballance_Amt = ReturnRound(r.Balance)
+            Else
+                SH_Prn_Amt = r.Principal
+                SH_Int_Amt = r.Interest
+                SH_Ballance_Amt = r.Balance
+            End If
+            addLoanSchedule1(LD_ID, CM_ID, frmMain.lblCode.Text, r.DueDate, r.Principal, r.Interest, r.Balance, SH_Prn_Amt, SH_Int_Amt, SH_Ballance_Amt, 1, frmMain.users.ToString, DateTime.Now(), LD_Service)
+        Next
+        '-------------------------------------- Show after saved loan
+        Dim lastDate As Date = getData("select max(SH_Date) from BK_LoanSchedule where LD_ID='" & LD_ID & "' and SH_BrId='" & frmMain.lblCode.Text & "'")
+        Me.DataGridView1.Rows(iRow).Cells("coDisDateEnd").Value = lastDate
+        Me.DataGridView1.Rows(iRow).Cells(0).Value = "Saved"
+    End Sub
     Private Sub CalculateLoan2(ByVal Disbursh As Integer, ByVal interestRate As Double, ByVal term As Integer, ByVal datefirstpay As DateTime, ByVal LD_Service As Double)
         Dim iRow = Me.DataGridView1.CurrentCell.RowIndex
         Dim LD_ID As Integer = DataGridView1.Rows(iRow).Cells("coLD_ID").Value.ToString
@@ -1525,6 +1608,11 @@ Public Class frmDisburshment
         oDt.Clear()
         oDa = New SqlDataAdapter(Str, g_cnn)
         oDa.Fill(oDt)
+        If oDt.Rows.Count = 0 Then
+            oDa.Dispose()
+            oDt.Dispose()
+            Return 1
+        End If
         Dim CM_ID As Integer = oDt.Rows(0).Item(0).ToString
         Dim EM_ID As Integer = oDt.Rows(0).Item(1).ToString
         Dim LD_ChargeRate As Double = oDt.Rows(0).Item(2).ToString
@@ -1557,6 +1645,13 @@ Public Class frmDisburshment
         lblCustomerID.Text = b
         lblLoanID.Text = a
     End Sub
+    '--------------------------------- Loan must be saved in BK_Loan before any schedule can be printed
+    Private Function isLoanSaved(ByVal LD_ID As Object, ByVal DisDateEnd As Object) As Boolean
+        If Format(LD_ID, "") = "" Or Format(DisDateEnd, "") = "" Then
+            Return False
+        End If
+        Return getData("select top 1 LD_ID from BK_Loan where LD_ID='" & LD_ID & "' and LD_BrId='" & frmMain.lblCode.Text & "'") <> ""
+    End Function
     Public Sub toExcel1(ByVal LD_ID As String, ByVal index As Integer)
         Dim iRow = index
         'Dim cnn As SqlConnection
@@ -1578,6 +1673,14 @@ Public Class frmDisburshment
         oDt.Clear()
         oDa = New SqlDataAdapter(Str, g_cnn)
         oDa.Fill(oDt)
+        If oDt.Rows.Count = 0 Then
+            oDa.Dispose()
+            oDt.Dispose()
+            xlApp.Quit()
+            System.Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.Default
+            resultError = frmMessageError.ShowBoxError("ឥណទានមិនទាន់រក្សាទុកផងបោះទៅតារាងម្តេចហ្នឹងកើត សូមពិនិត្យឡើងវិញ។", "មិនទាន់រក្សាទុក")
+            Return
+        End If
         Dim CM_ID As String = oDt.Rows(0).Item(1).ToString
         Dim CM_Name As String = oDt.Rows(0).Item(2).ToString
         Dim CM_Address As String = oDt.Rows(0).Item(3).ToString
@@ -1657,6 +1760,14 @@ Public Class frmDisburshment
         oDt.Clear()
         oDa = New SqlDataAdapter(Str, g_cnn)
         oDa.Fill(oDt)
+        If oDt.Rows.Count = 0 Then
+            oDa.Dispose()
+            oDt.Dispose()
+            xlApp.Quit()
+            System.Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.Default
+            resultError = frmMessageError.ShowBoxError("ឥណទានមិនទាន់រក្សាទុកផងបោះទៅតារាងម្តេចហ្នឹងកើត សូមពិនិត្យឡើងវិញ។", "មិនទាន់រក្សាទុក")
+            Return
+        End If
         Dim val1 As String = oDt.Rows(0).Item(1).ToString
         Dim val2 As String = oDt.Rows(0).Item(2).ToString
         Dim val3 As String = oDt.Rows(0).Item(3).ToString

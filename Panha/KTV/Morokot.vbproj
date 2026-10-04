@@ -419,6 +419,7 @@
     <Compile Include="Admin\ktvmode.vb" />
     <Compile Include="Admin\Mod_qbPayroll.vb" />
     <Compile Include="Admin\DbOps.vb" />
+    <Compile Include="Admin\FactorySchedule.vb" />
     <Compile Include="Admin\moremode.vb" />
     <Compile Include="Admin\frmMain.Designer.vb">
       <DependentUpon>frmMain.vb</DependentUpon>
