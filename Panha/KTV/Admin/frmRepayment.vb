@@ -356,7 +356,7 @@ Public Class frmRepayment
                             End If
                             '---------------------------
                             If Max_SH = FormatDateTime(DataGridView1.Rows(iRow).Cells("coDateTopay").Value, DateFormat.ShortDate) _
-                                And Val(DataGridView1.Rows(iRow).Cells("coAmtPaid").Value) = Convert.ToDouble(DataGridView1.Rows(iRow).Cells("coAmtToPay").Value) Then
+                                And Convert.ToDouble(DataGridView1.Rows(iRow).Cells("coAmtPaid").Value) = Convert.ToDouble(DataGridView1.Rows(iRow).Cells("coAmtToPay").Value) Then
                                 '---------------------- Update repay
                                 UpdateRepay(DataGridView1.Rows(iRow).Cells("coDes").Value, DataGridView1.Rows(iRow).Cells("coDatePaid").Value, DataGridView1.Rows(iRow).Cells("coAmtPaid").Value, DataGridView1.Rows(iRow).Cells("coCharge").Value, frmMain.users, DateTime.Now, prn, int, LD_Service)
                                 '-------------------------- Update Loan
@@ -1988,7 +1988,7 @@ Public Class frmRepayment
                             End If
                             '---------------------------
                             If Max_SH = FormatDateTime(dgWF.Rows(iRow).Cells("coDateTopayWF").Value, DateFormat.ShortDate) _
-                                And Val(dgWF.Rows(iRow).Cells("coPaidWF").Value) = Convert.ToDouble(dgWF.Rows(iRow).Cells("coAmtToPayWF").Value) Then
+                                And Convert.ToDouble(dgWF.Rows(iRow).Cells("coPaidWF").Value) = Convert.ToDouble(dgWF.Rows(iRow).Cells("coAmtToPayWF").Value) Then
                                 '---------------------- Update repay
                                 UpdateRepayWF(dgWF.Rows(iRow).Cells("coDesWF").Value, dgWF.Rows(iRow).Cells("coDatePaidWF").Value, dgWF.Rows(iRow).Cells("coPaidWF").Value, dgWF.Rows(iRow).Cells("coChargeWF").Value, frmMain.users, DateTime.Now, prn, int, LD_Service, dgWF.Rows(iRow).Cells("coEMID").Value.ToString())
                                 '-------------------------- Update Loan
