@@ -74,3 +74,26 @@ dotnet test Panha/KTV.Tests/KTV.Tests.vbproj
   SQL is string-concatenated inline and run over the single global `g_cnn`. Match surrounding style.
 - Project files list every source file explicitly — adding a form means adding `.vb`, `.Designer.vb`,
   `.resx` and the matching `<Compile>` / `<EmbeddedResource>` entries to `Morokot.vbproj`.
+
+## Keeping the product documentation current
+
+Two Khmer-language documents describe the system to customers and to the staff who operate it. They were
+written from the `Panha` variant's code (menus, forms, report list) and are the only feature documentation
+that exists:
+
+- **Sales/feature brochure** — https://claude.ai/code/artifact/a32f1bf1-80f5-4d24-80bc-a28192a73845
+  Modules, loan types and repayment units, the daily operations flow, the report catalogue, multi-branch
+  data transfer, security, system requirements.
+- **User manual** — https://claude.ai/code/artifact/0053258c-392b-4221-9947-979d8fc3e046
+  Login, shortcut keys, setup order, disbursement, repayment, write-off, cash operations, reports,
+  users and privileges, backup/restore/export/import, troubleshooting.
+
+**A feature is not finished until these are updated.** After implementing and verifying a change that a
+user would notice — a new form or menu item, a new report, a new loan type or repayment unit, a new
+validation or block, a changed shortcut key, a new permission, a changed workflow step — update the
+affected sections of both documents in the same piece of work, and tell the user what you changed there.
+Edit the existing documents through the docs connector at the URLs above; do not create new ones. Purely
+internal changes (refactors, test-only work, build fixes) need no documentation update.
+
+Both documents describe `Panha`. If a feature ships in a different variant, say so in the document rather
+than implying every deployment has it.

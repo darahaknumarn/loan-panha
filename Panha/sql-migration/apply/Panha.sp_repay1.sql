@@ -1,0 +1,68 @@
+ALTER PROCEDURE [dbo].[sp_repay1](
+@LD_ID Varchar(12),
+@BrID Varchar(12),@SH_Date date,@LR_ID int)
+AS
+BEGIN
+SET NOCOUNT ON;
+Declare @Payoff as Nvarchar(50);
+Declare @Repay as Nvarchar(100);
+Declare @KHR as NVarchar(12);
+Declare @USD as NVarchar(12);
+	Set @Payoff =N'បង់ផ្ដាច់';
+	Set @Repay =N'យកប្រាក់ពីអតិថិជន';
+	Set @KHR=N'រៀល';
+    Set @USD=N'ដុល្លារ'; 
+	IF @BrID = 'All' set @BrID ='%';
+--------------------------------------------- Get Loan Active
+select top 1 * into #Active from BK_Loan where LD_ID=@LD_ID and LD_BrId=@BrID
+----------------------------------------------------------------------------- sum LR_Amt
+select sum(isnull(LR_Amount,0))LR_Amt ,LD_ID,LR_BrID,SH_Date 
+into #a
+from BK_LoanRepay
+where LD_ID=@LD_ID and LR_BrID=@BrID and SH_Date=@SH_Date and LR_ID<@LR_ID
+group by LD_ID,LR_BrID,SH_Date
+--select * from #a return
+--------------------------------------------------------------------------- Get SH_Service
+select sum(isnull(SH_Service,0))Sum_Service,sum(isnull(SH_Int_Amt,0))Sum_Int,LD_ID,SH_BrId
+into #service
+from BK_LoanSchedule 
+where LD_ID=@LD_ID and SH_Date>@SH_Date 
+group by LD_ID, SH_BrId
+--select Sum_Int,Sum_Service from #service
+
+-----------------
+select LD_ID,LR_BrID, sum(LR_Amount)LR_AmtSP,sum(isnull(LR_Service,0))LR_Service,sum(isnull(Prn,0))Prn,sum(isnull(Int,0))Int
+into #specialRepay
+from BK_LoanRepay 
+where LD_ID=@LD_ID and LR_BrID=@BrID and SH_Date>@SH_Date
+group by LD_ID,LR_BrID
+--return
+---------------------------------------------------------------------------
+select a.SH_Date
+,(SH_Prn_Amt+SH_Int_Amt+isnull(SH_Service,0))-isnull(c.LR_Amt,0) SH_Total
+--,case when SH_PayoffAmt < SH_Balance+SH_Prn_Amt+SH_Int_Amt+Sum_Service+Sum_Int
+-- then SH_PayoffAmt+Sum_Service
+--  else SH_PayoffAmt end PayOff
+,SH_PayoffAmt-isnull(e.LR_AmtSP,0) PayOff
+, Case when isnull(c.LR_Amt,0)-isnull(e.LR_AmtSP,0)>=a.SH_Prn_Amt then a.SH_Balance-isnull(e.Prn,0) else (a.SH_Balance+a.SH_Prn_Amt) - (ISNULL(c.LR_Amt,0)+isnull(e.Prn,0)) end PrnPayoff 
+, (isnull(Sum_Int,0)+SH_Int_Amt)-isnull(e.Int,0)  IntTotal
+,Case when ISNULL(c.LR_Amt,0)>=a.SH_Prn_Amt then 0 else a.SH_Prn_Amt-ISNULL(c.LR_Amt,0) end prn
+,Case when ISNULL(c.LR_Amt,0)<=a.SH_Prn_Amt then a.SH_Int_Amt
+when ISNULL(c.LR_Amt,0)>a.SH_Prn_Amt and ISNULL(c.LR_Amt,0)<=a.SH_Prn_Amt+a.SH_Int_Amt
+then  (SH_Prn_Amt+SH_Int_Amt)-isnull(c.LR_Amt,0)
+else 0 end [int]
+,
+case 
+when isnull(c.LR_Amt,0) <= SH_Prn_Amt+SH_Int_Amt then SH_Service 
+when isnull(c.LR_Amt,0)>SH_Prn_Amt+SH_Int_Amt and isnull(c.LR_Amt,0)<SH_Prn_Amt+SH_Int_Amt+isnull(SH_Service,0)
+then (SH_Prn_Amt+SH_Int_Amt+SH_Service)-LR_Amt
+else 0 end LD_Service
+,(SH_Service+isnull(Sum_Service,0))-isnull(e.LR_Service,0) Service_Payoff
+from BK_LoanSchedule  a 
+left join #Active b on a.LD_ID=b.LD_ID and a.SH_BrId=b.LD_BrId
+left join #a c on a.LD_ID=c.LD_ID and a.SH_BrId=c.LR_BrID and a.SH_Date=c.SH_Date
+left join #service d on a.LD_ID=d.LD_ID and a.SH_BrId=d.SH_BrId
+left join #specialRepay e on a.LD_ID=e.LD_ID and a.SH_BrId=e.LR_BrID
+where a.SH_Date=@SH_Date and a.LD_ID =@LD_ID and a.SH_BrId=@BrID
+END
+----------------------------------------------------------------------------
