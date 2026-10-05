@@ -351,7 +351,7 @@ Public Class frmRepayment
                             '-------------------------------------------------------------------------------------------- update if it's last schedule repay
                             If Max_SH = FormatDateTime(DataGridView1.Rows(iRow).Cells("coDateTopay").Value, DateFormat.ShortDate) Then
                                 frmDisburshment.AddTrace_Debursh("UPDATE OLD", Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value)
-                                addIn("Update BK_Loan set LD_Status='Active',LD_User_Modify='" & frmMain.users & "',LD_Date_Modify='" & DateTime.Now & "',Date_Payoff='" & DataGridView1.Rows(iRow).Cells(7).Value & "' where LD_ID='" & Me.DataGridView1.Rows(iRow).Cells(1).Value & "' and LD_BrId='" & frmMain.lblCode.Text & "'")
+                                addIn("Update BK_Loan set LD_Status='Active',LD_User_Modify='" & frmMain.users & "',LD_Date_Modify='" & DateTime.Now & "',Date_Payoff='" & DateTime.MaxValue.Date & "' where LD_ID='" & Me.DataGridView1.Rows(iRow).Cells(1).Value & "' and LD_BrId='" & frmMain.lblCode.Text & "'")
                                 frmDisburshment.AddTrace_Debursh("UPDATE NEW", Me.DataGridView1.Rows(iRow).Cells("coLD_ID").Value)
                             End If
                             '---------------------------
@@ -1983,7 +1983,7 @@ Public Class frmRepayment
                             '-------------------------------------------------------------------------------------------- update if it's last schedule repay
                             If Max_SH = FormatDateTime(dgWF.Rows(iRow).Cells("coDateTopayWF").Value, DateFormat.ShortDate) Then
                                 frmDisburshment.AddTrace_Debursh("UPDATE OLD", Me.dgWF.Rows(iRow).Cells("coLD_IDWF").Value)
-                                addIn("Update BK_Loan set LD_Status='Active',LD_User_Modify='" & frmMain.users & "',LD_Date_Modify='" & DateTime.Now & "',Date_Payoff='" & dgWF.Rows(iRow).Cells("coDatePaidWF").Value & "' where LD_ID='" & Me.dgWF.Rows(iRow).Cells(1).Value & "' and LD_BrId='" & frmMain.lblCode.Text & "'")
+                                addIn("Update BK_Loan set LD_Status='Active',LD_User_Modify='" & frmMain.users & "',LD_Date_Modify='" & DateTime.Now & "',Date_Payoff='" & DateTime.MaxValue.Date & "' where LD_ID='" & Me.dgWF.Rows(iRow).Cells(1).Value & "' and LD_BrId='" & frmMain.lblCode.Text & "'")
                                 frmDisburshment.AddTrace_Debursh("UPDATE NEW", Me.dgWF.Rows(iRow).Cells("coLD_IDWF").Value)
                             End If
                             '---------------------------
