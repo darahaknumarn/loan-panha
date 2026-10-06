@@ -41,7 +41,7 @@ Public Class FrmCustomer
                 Dim iCol = .CurrentCell.ColumnIndex
                 If iCol = .Columns.Count - 1 Then
                     If iRow < .Rows.Count - 1 Then
-                        .CurrentCell = DataGridView1(0, iRow + 1)
+                        MoveToCell(0, iRow + 1)
                     End If
                 Else
                     If iRow < .Rows.Count - 1 Then
@@ -63,7 +63,7 @@ Public Class FrmCustomer
                                     .Rows(iRow).Cells(4).Value = ""
                                     .Rows(iRow).Cells(5).Value = ""
                                     .Rows(iRow).Cells(6).Value = ""
-                                    .CurrentCell = DataGridView1(iCol + 1, iRow)
+                                    MoveToCell(iCol + 1, iRow)
                                 Else
                                     resultError = frmMessageError.ShowBoxError("កូដអតិថិជនសូមបញ្ចូលជាលេខ មិនមែនជាអក្សរទេ។", "បញ្ចូលមិនត្រឹមត្រូវ")
                                     Return
@@ -74,13 +74,13 @@ Public Class FrmCustomer
                         If .Rows(iRow).Cells(2).Value Is Nothing Then
                             Return
                         Else
-                            .CurrentCell = DataGridView1(iCol + 1, iRow)
+                            MoveToCell(iCol + 1, iRow)
                         End If
                     ElseIf .CurrentCell.ColumnIndex = 3 Then
                         If .Rows(iRow).Cells(3).Value Is Nothing Then
                             Return
                         Else
-                            .CurrentCell = DataGridView1(iCol + 1, iRow)
+                            MoveToCell(iCol + 1, iRow)
                         End If
                     ElseIf .CurrentCell.ColumnIndex = 4 Then
                         If .Rows(iRow).Cells(4).Value Is Nothing Then
@@ -105,15 +105,26 @@ Public Class FrmCustomer
                             Else
                                 .Rows(iRow).Cells(5).Value = address
                             End If
-                            .CurrentCell = DataGridView1(iCol + 2, iRow)
+                            MoveToCell(iCol + 2, iRow)
                         End If
                     End If
                 End If
             End With
         Catch ex As Exception
-            resultError = frmMessageError.ShowBoxError("មិនអាចបញ្ចូលទិន្នន័យបានទេ សូមពិនិត្យឡើងវិញ។", "ការបញ្ចូលមិនត្រឹមត្រូវ")
+            resultError = frmMessageError.ShowBoxError("មិនអាចបញ្ចូលទិន្នន័យបានទេ សូមពិនិត្យឡើងវិញ។" & vbCrLf & ex.Message, "ការបញ្ចូលមិនត្រឹមត្រូវ")
         End Try
     End Sub
+    'Moving the cursor from inside CellEndEdit is a re-entrant current-cell change,
+    'which the DataGridView rejects; defer it until the event has finished.
+    Private Sub MoveToCell(ByVal col As Integer, ByVal row As Integer)
+        Me.BeginInvoke(Sub()
+                           If Me.IsDisposed Then Return
+                           If row >= 0 AndAlso row < DataGridView1.Rows.Count AndAlso col >= 0 AndAlso col < DataGridView1.Columns.Count Then
+                               DataGridView1.CurrentCell = DataGridView1(col, row)
+                           End If
+                       End Sub)
+    End Sub
+
     Private Sub DataGridView1_KeyDown(sender As Object, e As KeyEventArgs) Handles DataGridView1.KeyDown
         If e.KeyCode = Keys.F12 Then
             '--------------------------------------------------------------- Save new customer
@@ -171,7 +182,10 @@ Public Class FrmCustomer
                     resultError = frmMessageError.ShowBoxError("ការបញ្ចូលទិន្ន័យខ្វះមិនអាចកែរប្រែបានទេ សូមពិនិត្យឡើងវិញ។", "ការបញ្ចូលទិន្ន័យខ្វះ")
                     Return
                 Else
-                    If NoRecordChange() = 1 Then
+                    Dim changed As Integer = NoRecordChange()
+                    If changed = 0 Then
+                        Return
+                    ElseIf changed = 1 Then
                         resultError = frmMessageError.ShowBoxError("ទិន្នន័យដូចដើមគ្មានអ្វីកែរប្រែ។", "គ្មានការកែរប្រែ")
                         Return
                     Else
@@ -367,24 +381,30 @@ Public Class FrmCustomer
         Dim ID As Integer = 0
         Dim Str As String = ""
         Dim iRow = Me.DataGridView1.CurrentCell.RowIndex
-        If Me.Text = "FrmCustomer" Then
-            ID = Val(getData("Select ID from BK_Customer where CM_ID='" & Me.DataGridView1.Rows(iRow).Cells(1).Value & "' and Status ='Active' and CM_BrId='" & frmMain.lblCode.Text & "'"))
-        Else
+        If Me.Text = "CustomerOther" Then
             ID = Val(getData("Select ID from BK_CustomerOther where CM_ID='" & Me.DataGridView1.Rows(iRow).Cells(1).Value & "' and Status ='Active' and CM_BrId='" & frmMain.lblCode.Text & "'"))
+        Else
+            ID = Val(getData("Select ID from BK_Customer where CM_ID='" & Me.DataGridView1.Rows(iRow).Cells(1).Value & "' and Status ='Active' and CM_BrId='" & frmMain.lblCode.Text & "'"))
         End If
 
         'Dim sql As String
         Dim oDt As New System.Data.DataTable
-        If Me.Text = "FrmCustomer" Then
-            Str = "select CM_KhName,LO_ID,CM_Phone from BK_Customer where ID='" & ID & "' and CM_BrId='" & frmMain.lblCode.Text & "'"
-        Else
+        If Me.Text = "CustomerOther" Then
             Str = "select CM_KhName,LO_ID,CM_Phone from BK_CustomerOther where ID='" & ID & "' and CM_BrId='" & frmMain.lblCode.Text & "'"
+        Else
+            Str = "select CM_KhName,LO_ID,CM_Phone from BK_Customer where ID='" & ID & "' and CM_BrId='" & frmMain.lblCode.Text & "'"
         End If
 
         'On Error Resume Next
         oDt.Clear()
         oDa = New SqlDataAdapter(Str, g_cnn)
         oDa.Fill(oDt)
+        If oDt.Rows.Count = 0 Then
+            oDa.Dispose()
+            oDt.Dispose()
+            resultError = frmMessageError.ShowBoxError("រកមិនឃើញអតិថិជនលេខកូដនេះក្នុងសាខានេះទេ មិនអាចកែរប្រែបានទេ។", "រកមិនឃើញអតិថិជន")
+            Return 0
+        End If
         Dim CM_Name As String = oDt.Rows(0).Item(0).ToString
         Dim LO_ID As Integer = oDt.Rows(0).Item(1).ToString
         Dim CM_Phone As String = oDt.Rows(0).Item(2).ToString
