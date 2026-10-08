@@ -34,6 +34,7 @@ Public Class frmsignin
             If IsExisted("select * from sys_User where PassWords='" & Me.txtpass.Text & "'and User_Name='" & Me.txtstaff.Text & "'") = True Then
                 uid = Me.txtstaff.Text
                 Me.Hide()
+                If frmMain.Created Then frmMain.LoadUserSession()
                 frmMain.WindowState = FormWindowState.Maximized
                 frmMain.Show()
                 'Security()

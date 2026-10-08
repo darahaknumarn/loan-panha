@@ -36,9 +36,31 @@
         lblName.Text = Name.ToString
         lblserver.Text = "Server: " & g_cnn.DataSource.ToString & " , Database: " & g_cnn.Database.ToString
         frmsignin.Hide()
+        LoadUserSession()
+    End Sub
+
+    'Log off only hides this form, so Load does not run again for the next user.
+    'frmsignin calls this on every re-login to refresh users and the menu privileges.
+    Private DefaultMenuEnabled As Dictionary(Of ToolStripItem, Boolean)
+    Public Sub LoadUserSession()
+        users = getData("select User_Name from sys_User where PassWords='" & frmsignin.txtpass.Text & "'and User_Name='" & frmsignin.txtstaff.Text & "'")
+        If DefaultMenuEnabled Is Nothing Then
+            DefaultMenuEnabled = New Dictionary(Of ToolStripItem, Boolean)
+            SaveDefaultMenuState(MenuStrip1.Items)
+        Else
+            For Each kv In DefaultMenuEnabled
+                kv.Key.Enabled = kv.Value
+            Next
+        End If
         'Get Privileges view for loged in user
         Dim DT As DataTable = ExecuteDatatable("SELECT MenuID FROM sys_UserPrivilege WHERE PrivilegeID = 1 AND User_Name = '" & users & "'", g_cnn)
         LoadMenuPrvileges(MenuStrip1, DT)
+    End Sub
+    Private Sub SaveDefaultMenuState(Items As ToolStripItemCollection)
+        For Each item As ToolStripItem In Items
+            DefaultMenuEnabled(item) = item.Enabled
+            If TypeOf item Is ToolStripMenuItem Then SaveDefaultMenuState(DirectCast(item, ToolStripMenuItem).DropDownItems)
+        Next
     End Sub
 
     Private Sub LoadMenuPrvileges(Menu As MenuStrip, DTPrivileges As DataTable)
